@@ -2,6 +2,7 @@
 layout: post
 title:  Get on the Stage
 date:   2015-11-01 09:00:00
+share:	facebook
 ---
 
 Nothing has gone right today.
