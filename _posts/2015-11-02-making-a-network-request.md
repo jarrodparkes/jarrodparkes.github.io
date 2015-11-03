@@ -2,7 +2,7 @@
 layout: post
 title:  Making a Network Request
 date:   2015-11-02 19:17:58
-share:  facebook
+share:  facebook linkedin
 ---
 
 Tonight let&#39;s talk about making network requests in Swift. You can make a request directly from a [unified resource location (URL)](https://en.wikipedia.org/wiki/Uniform_Resource_Locator), but it is better to first construct a valid request object. There are two options for request objects: `NSURLRequest` or `NSMutableURLRequest`. A `NSMutableURLRequest` provides many more configuration options that a `NSURLRequest`, but we'll keep it simple and use a `NSURLRequest`:
