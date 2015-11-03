@@ -4,7 +4,15 @@ layout: null
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>{{ site.title | xml_escape }} - Articles</title>
+    <image>
+        <url>http://jarrodparkes.github.io/images/fork.png</url>
+        <title>Jarrod Parkes</title>
+        <link>http://jarrodparkes.github.io</link>
+        <width>64</width>
+        <height>64</height>
+        <description>Learner. Teacher. Developer.</description>
+    </image>
+    <title>{{ site.title | xml_escape }}</title>
     <description>{% if site.description %}{{ site.description | xml_escape }}{% endif %}</description>
     <link>
     {{ site.url }}</link>
