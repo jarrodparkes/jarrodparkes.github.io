@@ -13,9 +13,12 @@ layout: null
         <description>Learner. Teacher. Developer.</description>
     </image>
     <title>{{ site.title | xml_escape }}</title>
-    <description>{% if site.description %}{{ site.description | xml_escape }}{% endif %}</description>
-    <link>
-    {{ site.url }}</link>
+    <description>{{ site.blog_description | xml_escape }}</description>
+    <link>{{ site.site_url }}{{ site.blog_url }}</link>
+    <atom:link href="{{ "/feed.xml" | prepend: site.blog_url | prepend: site.site_url }}" rel="self" type="application/rss+xml" />
+    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
+    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
+    <generator>Jekyll v{{ jekyll.version }}</generator>
     {% for post in site.posts %}
       {% unless post.link %}
       <item>
