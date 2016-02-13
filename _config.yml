@@ -8,10 +8,11 @@ github_username:  jarrodparkes
 
 # Build settings
 date_format: "%Y-%m-%d"
-markdown:     redcarpet
-redcarpet:
-  extensions: ['smart', 'tables', 'with_toc_data']
-permalink:    pretty
+permalink: pretty
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
 google_analytics: UA-37731779-1
 
 # https://github.com/eduardoboucas/jekyll-social

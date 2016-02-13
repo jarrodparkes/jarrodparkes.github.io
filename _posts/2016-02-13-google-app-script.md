@@ -16,10 +16,10 @@ A few caveats that I should mention before you get started:
 
 With that out of the way, you can get down to business. The "add-on architecture" is typically separated into two parts: (1) client-side code and (2) server-side code.
 
-###Client-Side Code
+### Client-Side Code
 
 For most add-ons, you will create some HTML that gets displayed either as a dialog or a sidebar. In either case, this HTML can include Javascript which has it own special functionality. In my case, the Javascript calls back to the server so that it can manipulate the Google Doc itself.
 
-###Server-Side Code
+### Server-Side Code
 
 The server-side code is where you have the ability to modify the contents of the Google Doc (or Sheet).
