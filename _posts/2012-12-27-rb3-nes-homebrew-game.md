@@ -24,4 +24,6 @@ My purpose for creating RB3 was to test all of the subsystems of the NES in a si
 
 Below is the most recent RB3 gameplay footage.
 
-[youtube id="n5TgZdyWYL8"]
+<div class="video-wrapper">
+    <iframe width="640" height="360" src="https://www.youtube.com/embed/n5TgZdyWYL8" frameborder="0" allowfullscreen></iframe>
+</div>

@@ -37,7 +37,7 @@ This JSON can be consumed by an app to do something useful. But, to gain access 
 
 > `NSURLSession`... gives your app the ability to perform background downloads when your app is not running or, in iOS, while your app is suspended.
 
-Specifically, `NSURLSession`&#39;s `dataTaskWithRequest:completionHandler:` is the method that will we want to use because it can take our request object as a parameter and create a network task. To call the method, we must use a `NSURLSession` object. But, don't worry, we can use the shared `NSURLSession` object provided by the `sharedSession` class method.
+The `dataTaskWithRequest` (that takes a completion handler) method is the one we want to use because it can take our request object as a parameter and create a network task. To call the method, we must use a `NSURLSession` object. But, don't worry, we can use the shared `NSURLSession` object provided by the `sharedSession` class method.
 
 ```swift
 let task = NSURLSession.sharedSession().dataTaskWithRequest(

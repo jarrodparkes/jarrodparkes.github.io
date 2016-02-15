@@ -17,4 +17,6 @@ Health24 won several awards at the local contest and global contest level. A ful
 
 As part of the final submission, the team was asked to create a short 3-minute video describing the project. I have embedded the video below.
 
-[youtube id="pu1Avk9epNk"]
+<div class="video-wrapper">
+    <iframe width="640" height="360" src="https://www.youtube.com/embed/pu1Avk9epNk" frameborder="0" allowfullscreen></iframe>
+</div>

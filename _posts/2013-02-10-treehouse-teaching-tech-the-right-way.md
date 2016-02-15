@@ -22,7 +22,9 @@ And it does not stop there! TreeHouse also includes content for how to start yo
 ## Recap
 So to recap, I want to show one of TreeHouse's ads from about two years ago. It may be a little dated, but it still really captures what TreeHouse is all about.
 
-[youtube id="JBdqwR8LEww"]
+<div class="video-wrapper">
+    <iframe width="640" height="360" src="https://www.youtube.com/embed/JBdqwR8LEww" frameborder="0" allowfullscreen></iframe>
+</div>
 
 Here are my "three" takeaways for what I consider to be most important to TreeHouse's method.
 

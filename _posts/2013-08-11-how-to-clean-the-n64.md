@@ -18,7 +18,7 @@ A week ago, my brother and I acquired two N64s from a seller in Decatur, Alabama
 
 ![clean the n64 part 1 tools]({{ site.url }}/images/clean-n64-1.png "clean the n64 part 1 tools")
 
-For most people, removing the case will be delayed until you can acquire the proper screwdriver ([http://www.dkoldies.com/4-5mm-Security-Screw-Bit-for-SNES-N64-Gen-p/acc_snes_n64_scewbit.htm](http://www.dkoldies.com/4-5mm-Security-Screw-Bit-for-SNES-N64-Gen-p/acc_snes_n64_scewbit.htm)) to remove the proprietary half-inch "game bit" screws that hold the case together. Since the screws are likely machine-tightened, it may be difficult to loosen them. So, I suggest you use locking pliers ([http://www.irwin.com/tools/brands/vise-grip](http://www.irwin.com/tools/brands/vise-grip)) to add some extra torque! The locking pliers are really a must... I have had very limited success without them.
+For most people, removing the case will be delayed until you can acquire the [proper screwdriver](http://www.dkoldies.com/4-5mm-Security-Screw-Bit-for-SNES-N64-Gen-p/acc_snes_n64_scewbit.htm) to remove the proprietary half-inch "game bit" screws that hold the case together. Since the screws are likely machine-tightened, it may be difficult to loosen them. So, I suggest you use locking pliers ([or vise grips](http://www.irwin.com/tools/brands/vise-grip)) to add some extra torque! The locking pliers are really a must... I have had very limited success without them.
 
 ![clean the n64 bottom screws]({{ site.url }}/images/clean-n64-2.png "clean the n64 bottom screws")
 
