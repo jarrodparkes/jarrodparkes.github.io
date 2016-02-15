@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Katie in California - Day 8
+title: Katie in Cali - Day 8
 date: 2015-03-31 19:10:03-0600
 tags: travel
 ---

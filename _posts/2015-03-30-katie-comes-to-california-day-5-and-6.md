@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Katie in California - Day 5 and 6
+title: Katie in Cali - Day 5 and 6
 date: 2015-03-30 14:33:12-0600
 tags: travel
 ---

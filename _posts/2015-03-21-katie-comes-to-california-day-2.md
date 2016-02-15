@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Katie in California – Day 2
+title: Katie in Cali – Day 2
 date: 2015-03-21 12:39:19-0600
 tags: travel
 ---

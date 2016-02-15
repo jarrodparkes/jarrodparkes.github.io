@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NES Assembly Course Cirriculum
+title: NES Assembly Cirriculum
 date: 2013-04-21 05:09:09-0600
 tags: nes
 ---

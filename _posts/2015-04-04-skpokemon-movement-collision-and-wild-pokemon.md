@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Movement, Collision, and Pokemon
+title: SKPokemon Improvements
 date: 2015-04-04 20:56:13-0600
 tags: ios
 ---
