@@ -3,7 +3,6 @@ layout: post
 title:  Get on the Stage
 date:   2015-11-01 09:00:00-0600
 tags: 	swift
-share:	facebook linkedin twitter twitter--hashtags
 ---
 
 Nothing has gone right today.

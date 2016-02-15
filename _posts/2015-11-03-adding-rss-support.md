@@ -3,7 +3,6 @@ layout: post
 title:  Adding RSS Support
 date:   2015-11-03 00:30:32-0600
 tags:   rss
-share:  facebook twitter twitter--hashtags
 ---
 
 It's really early in the morning and I can't sleep. So, why not add support for RSS feeds and auto-posting to social networks?
