@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Making Pokemon Clone in Swift with SpriteKit
+title: SpriteKit Pokemon Clone
 date: 2015-04-02 22:53:12-0600
 tags: ios
 ---

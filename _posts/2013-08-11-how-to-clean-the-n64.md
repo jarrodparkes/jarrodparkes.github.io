@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How To - Clean the N64
+title: How to Clean the N64
 date: 2013-08-11 22:42:11-0600
 tags: n64
 ---

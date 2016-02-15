@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Google App Script for Google Docs
+title:  App Script for Google Docs
 date:   2016-02-13 08:40:30-0600
 tags:   rss
 ---

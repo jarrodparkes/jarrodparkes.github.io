@@ -56,4 +56,4 @@ So, in the above example we have saved 5 bits for the single wood tile. By doing
 
 You will find that the effectiveness of Huffman coding (like all compression algorithms) depends on your data set. There are many articles which describe the optimal use-cases for such an algorithm, but I will leave that topic for another day. In closing, I will leave you with this following image provided by Brad Smith... the Huffman tree used by Battletoads. Awesome!
 
-![huffman-battletoads]({{ site.url }}/images/huffman-battletoads-1024x732.png "huffman-battletoads")
+![huffman-battletoads]({{ site.url }}/images/huffman-battletoads.png "huffman-battletoads")

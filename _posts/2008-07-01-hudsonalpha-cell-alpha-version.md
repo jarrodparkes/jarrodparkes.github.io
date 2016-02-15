@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HudsonAlpha Cell - Alpha Version
+title: HudsonAlpha Cell
 date: 2008-07-01 12:45:28-0600
 tags: unreal
 ---

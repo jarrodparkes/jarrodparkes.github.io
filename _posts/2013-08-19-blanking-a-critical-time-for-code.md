@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blanking - A Critical Time for Code
+title: A Critical Time for Code
 date: 2013-08-19 12:27:59-0600
 tags: nes
 ---

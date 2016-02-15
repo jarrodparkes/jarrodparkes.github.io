@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Joomla! Development "Must Have"
+title: Joomla! Development Book
 date: 2013-04-21 04:17:18-0600
 tags: web
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introduction to iOS App Development with Swift
+title: Introduction to iOS Dev
 date: 2015-09-07 16:24:36-0600
 tags: ios
 ---

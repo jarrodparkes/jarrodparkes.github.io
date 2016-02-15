@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TreeHouse Teaching Tech "The Right Way"
+title: Tech "The Right Way"
 date: 2013-02-10 21:47:57-0600
 tags: learning
 ---

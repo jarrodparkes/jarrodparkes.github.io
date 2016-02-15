@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Chimi Course Scheduling System
+title: Course Scheduling System
 date: 2013-12-02 22:17:14-0600
 tags: dev
 ---
@@ -13,5 +13,5 @@ The auto-scheduling program was built using the Java Development Kit 7 (JDK 7) a
 
 From the web interface, Chimi allowed users to upload the data file, building an ideal schedule (using a drag-n-drop), and print or save the resulting scheduling . The entire web interface was built by James Parkes while I handled the server setup and provided hooks for the database layer. Because hosting was not provided by the university, the team as forced to piggyback hosting off a personal server, so the project cannot be accessed publicly. So, I have included downloads of the user and input guides provided in the final presentation.
 
-[Chimi User Guide]({{ site.url }}/assets/chimi_user_guide.pdf)
-[Chimi Input Guide]({{ site.url }}/assets/chimi_input_guide.pdf)
+- [Chimi User Guide]({{ site.url }}/assets/chimi_user_guide.pdf)
+- [Chimi Input Guide]({{ site.url }}/assets/chimi_input_guide.pdf)

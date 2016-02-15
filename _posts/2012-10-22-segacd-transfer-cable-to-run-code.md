@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SegaCD Transfer Cable to Run Code
+title: SegaCD Transfer Cable
 date: 2012-10-22 02:20:52-0600
 tags: genesis
 ---
@@ -9,7 +9,7 @@ tags: genesis
 
 I started this project a couple weeks ago, but I am finally getting around to writing about it. When I first started Google-searching homebrew development for the Sega Genesis, I stumbled upon an article called "The SegaCD Transfer Cable". The article discussed how to use a connection from a PC parallel port to the 2nd player port on the Genesis in order to run homebrew code. The biggest snag in the article was creating the custom cord that took a 25-pin parallel cable and converted it to a 9-pin controller connection. With the help of some friends, I was able to make the SegaCD transfer cable myself. Also, the cable requires a SegaCD to run the bootstrap code.
 
-The instructions to build the SegaCD transfer cable can be found at [http://www.retrodev.com/transfer.html](http://www.retrodev.com/transfer.html" target="_blank).
+The instructions to build the SegaCD transfer cable can be found at [RetroDev](http://www.retrodev.com/transfer.html).
 
 Overall, the process was not too difficult, even if you have no experience with wires or opening peripherals. I had to sacrifice a perfectly good Sega Genesis controller which is my only regret. But, maybe one day I can convert the scarp parts into a wireless controller.
 

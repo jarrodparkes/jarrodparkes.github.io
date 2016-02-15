@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SKPokemon - Movement, Collision, and Wild Pokemon
+title: Movement, Collision, and Pokemon
 date: 2015-04-04 20:56:13-0600
 tags: ios
 ---

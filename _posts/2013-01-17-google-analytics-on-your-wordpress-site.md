@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google Analytics on Your WordPress Site
+title: Analytics on WordPress Site
 date: 2013-01-17 14:29:27-0600
 tags: web
 ---
@@ -11,7 +11,7 @@ Google Analytics is a robust web platform for tracking usage statistics, traffic
 
 To test Google Analytics, I used one of my WordPress sites, but any site would do. I was pleasantly surprised to find that adding Google Analytics to a WordPress site only required a few simple steps.
 
-1. Register your WordPress site by visiting [http://www.google.com/analytics](http://www.google.com/analytics)
+1. Register your WordPress site by visiting [Google Analytics](http://www.google.com/analytics)
 2. Navigate in the admin section of your WordPress site to *Appearance --> Editor*
 3. Once you are at the editor page for your theme, find the PHP file dubbed "header.php"
 4. Copy and paste the Javascript tracking code from your Google Analytics dashboard somewhere within the <header> </header> HTML tags

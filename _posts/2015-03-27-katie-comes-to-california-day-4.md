@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Katie Comes to California - Day 4
+title: Katie in California - Day 4
 date: 2015-03-27 00:16:09-0600
 tags: travel
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Katie Comes to California - Day 9, 10, and 11
+title: Katie in California - Day 9, 10, and 11
 date: 2015-04-01 21:25:42-0600
 tags: travel
 ---

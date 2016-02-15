@@ -1,11 +1,9 @@
 ---
 layout: post
-title: Katie Comes to California – Day 3
+title: Katie in California – Day 3
 date: 2015-03-24 12:03:45-0600
 tags: travel
 ---
-
-![day-3-jan-jarrod-katie]({{ site.url }}/images/day-3-jan-jarrod-katie.jpeg "Day 3 Katie and Jarrod")
 
 Since it reads more clearly, I am writing this post in first-person; however, Katie is sitting next to me, and we are creating this content together. Also, she took all the pictures!
 
