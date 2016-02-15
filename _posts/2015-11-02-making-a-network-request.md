@@ -47,7 +47,7 @@ let task = NSURLSession.sharedSession().dataTaskWithRequest(
 task.resume()
 ```   
 
-This first part of this snippet creates the network task. Then, after we've created the task we must call its `resume` method to start the task. You'll also notice the `dataTaskWithRequest:completionHandler:` takes a trailing closure with three parameters:
+This first part of this snippet creates the network task. Then, after we've created the task we must call its `resume` method to start the task. You'll also notice `dataTaskWithRequest` takes a trailing closure with three parameters:
 
 <table>
     <thead>
