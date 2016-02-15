@@ -113,7 +113,7 @@ let task = NSURLSession.sharedSession().dataTaskWithRequest(
 task.resume()
 ```
 
-1. Here we've defined an `AnyObject` optional to store the result of converting the data returned by the request. The `JSONObjectWithData(_:options:)` method will return either a `NSDictionary` or `NSArray` which is why we've used `AnyObject?` to handle either.
+1. Here we've defined an `AnyObject` optional to store the result of converting the data returned by the request. The `JSONObjectWithData` method will return either a `NSDictionary` or `NSArray` which is why we've used `AnyObject?` to handle either.
 2. Then, assuming no error is encountered, we print the data in its converted form.
 
 Here is the full code example if you'd like to test it in a Playground. I've included the `import XCPlayground` and `needsIndefiniteExecution` setting so that the Playground executes indefinately and can complete the network request.
