@@ -49,32 +49,14 @@ task.resume()
 
 This first part of this snippet creates the network task. Then, after we've created the task we must call its `resume` method to start the task. You'll also notice `dataTaskWithRequest` takes a trailing closure with three parameters:
 
-<table>
-    <thead>
-        <tr>
-            <th>Parameter</th>
-            <th>Type</th>
-            <th>Description</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>data</td>
-            <td>NSData?</td>
-            <td>The data returned by the server.</td>
-        </tr>
-        <tr>
-            <td>response</td>
-            <td>NSURLResponse?</td>
-            <td>An object that provides response metadata, such as HTTP headers and status code. If you are making an HTTP or HTTPS request, the returned object is actually an NSHTTPURLResponse object.</td>
-        </tr>
-        <tr>
-            <td>error</td>
-            <td>NSError?</td>
-            <td>An error object that indicates why the request failed, or nil if the request was successful.</td>
-        </tr>
-    </tbody>
-</table>
+- `data: NSData?`
+*The data returned by the server.*
+
+- `response: NSURLResponse?`
+*An object that provides response metadata, such as HTTP headers and status code. If you are making an HTTP or HTTPS request, the returned object is actually an NSHTTPURLResponse object.*
+
+- `error: NSError?`
+*An error object that indicates why the request failed, or nil if the request was successful.*
 
 If the request completes successfully, then the error parameter will be nil. Otherwise, the data parameter is nil and the error parameter will contain information about the failure. So, we'll want to check for an error as soon as the closure is invoked: 
 
