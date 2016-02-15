@@ -3,7 +3,6 @@ email: parkesfjarrod@gmail.com
 description: Learner. Teacher. Developer.
 baseurl: ""
 url: http://jarrodparkes.github.io
-twitter_username: jarrodparkes
 github_username:  jarrodparkes
 
 # Build settings
@@ -14,8 +13,3 @@ kramdown:
   input: GFM
   syntax_highlighter: rouge
 google_analytics: UA-37731779-1
-
-# https://github.com/eduardoboucas/jekyll-social
-twitter_format: "@title: @url@tags"
-twitter_url_length: 22
-twitter_max_length: 140
