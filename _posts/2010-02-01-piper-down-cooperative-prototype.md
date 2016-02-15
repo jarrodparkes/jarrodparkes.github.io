@@ -15,4 +15,6 @@ In the game, player one controls a third person character in zero-G who combats 
 
 The prototype was intended to be the first of several space-themed games, but the funding for the project was cut in the late spring of 2010.
 
-[youtube id="7HQzj_HhdQI"]
+<div class="video-wrapper">
+	<iframe width="640" height="360" src="https://www.youtube.com/embed/7HQzj_HhdQI" frameborder="0" allowfullscreen></iframe>
+</div>

@@ -15,4 +15,6 @@ The game consists of twenty waves, multiple enemies types, and four towers with 
 
 Several weeks after the Unity Conference, I reopened the project to add a high scores list. I used some light database functionality built into Unity to retrieve and post high scores through the web. Although the game was featured online for a small amount of time, we eventually removed the hosting because the fire tower had a nasty habit of not rendering to the screen. Otherwise, 3JTD was a huge success, and a breakthrough for me after only making small prototypes.
 
-[youtube id="x2vfhb7SmQw"]
+<div class="video-wrapper">
+	<iframe width="640" height="360" src="https://www.youtube.com/embed/x2vfhb7SmQw" frameborder="0" allowfullscreen></iframe>
+</div>

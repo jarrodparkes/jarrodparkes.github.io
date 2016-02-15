@@ -21,4 +21,6 @@ Each weapon was based on a real gun, but their themes were based on fruits. For 
 
 For each of the gameplay elements, I also created a custom user interface that allowed game testers to edit values on the fly. I accomplished this by overriding Unity's inspector GUI system. The final element I contributed to was the radar seen in the top-left hand corner of the Monkey Arena gameplay video. This simple radar-blip system tracked the positions of nearby enemies. All of the GUI was created by my twin brother James.
 
-[youtube id="DvEvQvvq4mQ"]
+<div class="video-wrapper">
+    <iframe width="640" height="360" src="https://www.youtube.com/embed/DvEvQvvq4mQ" frameborder="0" allowfullscreen></iframe>
+</div>

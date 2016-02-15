@@ -13,4 +13,6 @@ Because I wanted something more than a simple shot-and-kill design, I decided to
 
 For the demo seen below, the objective was to destroy the watch tower at the end of the map. In the watch tower, a super zombling capable of firing a machine gun sprays bullets on the player. So, by baiting the ground zomblings, and carefully navigating around obstacles, the player is able to lead a zombling through the fire and to the explosive barrel near the watch tower. If done correctly, the explosive barrel ignites and destroys the watch tower and super zombling.
 
-[youtube id="SYf1E3mg3KU"]
+<div class="video-wrapper">
+	<iframe width="640" height="360" src="https://www.youtube.com/embed/SYf1E3mg3KU" frameborder="0" allowfullscreen></iframe>
+</div>

@@ -13,4 +13,6 @@ Besides some extremely brief work with 3Ds Max, this was my first true experienc
 
 At completion, the lab models helped to teach students the concepts of recombinant DNA. The major benefit of the virtual lab was to provide students the opportunity to perform experiments that normally could not be done because of monetary or safety reasons. Labs like this, were part of a long series of sales pitches for teaching biotechnology through video game applications. The project lab was demoed by nearly one hundred high school students from the Huntsville metro area in the spring of 2009.
 
-[youtube id="il0mqI433aY"]
+<div class="video-wrapper">
+    <iframe width="640" height="360" src="https://www.youtube.com/embed/il0mqI433aY" frameborder="0" allowfullscreen></iframe>
+</div>

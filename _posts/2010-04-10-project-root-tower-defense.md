@@ -13,4 +13,6 @@ In the first weeks of Project Root's development, I spent a lot of time modeling
 
 Before I could finish the project, I was pulled away by a very busy junior semester of college. I did manage to integrate some other small things in the GUI like tower updates and purchases, but most of the project remains largely unfinished. Like many of my other prototypes, I plan to return to Project Root and finish the game when I have some free time. The game was being created in Unity3D and slated to be released on the web.
 
-[youtube id="ZQzYpam__Lg"]
+<div class="video-wrapper">
+	<iframe width="640" height="360" src="https://www.youtube.com/embed/ZQzYpam__Lg" frameborder="0" allowfullscreen></iframe>
+</div>
