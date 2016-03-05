@@ -11,7 +11,7 @@ A few caveats that I should mention before you get started:
 
 - Collaboratively working on GAS is a nightmare, there is no built-in support for doing distributed work with multiple people
 - GAS have different types of deployment models... in this post, I am referring exclusively to GAS that are add-ons
-- While you are building an add-on it is coupled directly with either an individual Doc or Sheet; once you deploy an add-on it can be connected to many docuements
+- While you are building an add-on it is coupled directly with either an individual Doc or Sheet; once you deploy an add-on it can be connected to many documents
 - The GAS editor allows you test server-side functionality directly (this is a really feature!)
 
 With that out of the way, you can get down to business. The "add-on architecture" is typically separated into two parts: (1) client-side code and (2) server-side code.
