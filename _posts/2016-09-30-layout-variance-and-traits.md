@@ -2,7 +2,7 @@
 layout: post
 title:  Layout Variance and Traits
 date:   2016-09-30 06:32:00-0600
-tags:	
+tags:	ios
 ---
 
 I was updating an iOS app at work, and I stumbled upon Xcode's feature for layout variance based on traits. What are traits, you ask? They are the width, height, and gamut of Apple devices. Width and height are self explanitory, and gamut is related to the graphics hardware (I think). Anyways, Xcode storyboards give you the ability to modify UI element values based on traits (or trait families). For example, if I want the elements in a view to be positioned in a certain way for landscape, but in a different way for portrait, then traits give me an easy way to do it.

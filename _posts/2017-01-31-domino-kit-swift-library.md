@@ -2,7 +2,7 @@
 layout: post
 title:  DominoKit Swift Library
 date:   2017-01-31 11:37:00-0600
-tags:
+tags:   swift
 ---
 
 ![Domino Kit Icon](https://raw.githubusercontent.com/jarrodparkes/DominoKit/assets/domino-kit.png "Domino Kit")

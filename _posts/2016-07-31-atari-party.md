@@ -2,7 +2,7 @@
 layout: post
 title:  Atari Party
 date:   2016-07-31 14:28:00-0600
-tags:
+tags:   atari, gaming
 ---
 
 The past two weeks I've been in the San Francisco Bay Area for work. Before flying back home, I had the opportunity to go to the [Atari Party](http://www.newbreedsoftware.com/atariparty/) in Davis, California - an opportunity I couldn't pass up! Having grown up playing the Nintendo 64, most of Atari's products predate me by quite a few years. But, my time spent doing homebrew game development eventually lead me to the [Atari 2600](https://en.wikipedia.org/wiki/Atari_2600), and it gave me a true appreciation for the 8-bit and 16-bit eras when Atari was in its heyday. I made the trip to Davis with my twin brother James, coworker Garrett, and high hopes of seeing some classic gaming history.

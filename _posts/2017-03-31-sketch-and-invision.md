@@ -2,7 +2,7 @@
 layout: post
 title:  Sketch and InVision
 date:   2017-03-31 10:21:00-0600
-tags:
+tags:   graphics
 ---
 
 Am I talented enough to be a full time designer? No. Do I occasionally need to generate my own graphics for projects? Absolutely, yes.

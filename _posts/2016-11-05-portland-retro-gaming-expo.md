@@ -2,7 +2,7 @@
 layout: post
 title:  Portland Retro Gaming Expo
 date:   2016-11-05 11:37:00-0600
-tags:	
+tags:	gaming
 ---
 
 A few weekends ago, I took a trip to Portland, Oregon, to see a fraternity brother and attend the [Portland Retro Gaming Expo (PRGE2017)](http://www.retrogamingexpo.com). It was my first trip to Portland and my first time hearing about and going to the expo — it did not disappoint!

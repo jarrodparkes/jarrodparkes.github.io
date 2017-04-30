@@ -2,10 +2,10 @@
 layout: post
 title:  Google App Script Emails
 date:   2016-07-03 11:36:00-0600
-tags:	
+tags:	google
 ---
 
-Google App Scripts, 
+Google App Scripts,
 
 *Where were you during college when I used Google Documents and Google Sheets for everything? How could I have overlooked your mystical powers? Your abilities to perform complex transformations, generate boilerplate material, and improve my workflows?*
 
