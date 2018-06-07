@@ -9,7 +9,7 @@ tags: nes
 
 > Painted Tile Image: Taken and Produced by [Chelsea Rominski](http://mygoodmorning.com/) for her [DIY Tile Painting Project](http://mygoodmorning.com/2013/05/16/painting-tiles-coffee-table-revamp/).
 
-Following my last post on [NES Nametables](http://www.jarrodparkes.com/nes-nametables/), I will be introducing the attribute table. An attribute table is a mechanism for applying color to NES backgrounds. Unlike a nametable, the attribute tables consists of values that correspond to 32x32 pixel regions. Each 32x32 pixel region overlaps with 16 background tiles from a nametable (except for the edge regions). The image below shows how a NES background (nametable) may be subdivided by the attribute table.
+Following my last post on [NES Nametables](https://www.jarrodparkes.com/nes-nametables/), I will be introducing the attribute table. An attribute table is a mechanism for applying color to NES backgrounds. Unlike a nametable, the attribute tables consists of values that correspond to 32x32 pixel regions. Each 32x32 pixel region overlaps with 16 background tiles from a nametable (except for the edge regions). The image below shows how a NES background (nametable) may be subdivided by the attribute table.
 
 ![NES Attribute Table Split]({{ site.url }}/images/nes-attribute-split.png "NES Attribute Table Split")
 

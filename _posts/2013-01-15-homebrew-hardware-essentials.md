@@ -37,7 +37,7 @@ This is made by the same company as the NES Powerpak except it works for the SNE
 
 ![md-pro-flash-cart]({{ site.url }}/images/md-pro-flash-cart.png "MD Pro Flash Cart")
 
-This is my last piece of homebrew hardware. Long story short, my first attempt at running homebrew code on a Sega Genesis was ultimately a flop (see [SegaCD Transfer Cable](http://www.jarrodparkes.com/segacd-transfer-cable/)), and thus I was lead to try flash carts like this one. Unlike the NES or SNES Powerpak, this flash cartridge requires special software, a parallel port, and some luck to use. I would highly recommend using a different Genesis flash cartridge all together, but this one works for me.
+This is my last piece of homebrew hardware. Long story short, my first attempt at running homebrew code on a Sega Genesis was ultimately a flop (see [SegaCD Transfer Cable](https://www.jarrodparkes.com/segacd-transfer-cable/)), and thus I was lead to try flash carts like this one. Unlike the NES or SNES Powerpak, this flash cartridge requires special software, a parallel port, and some luck to use. I would highly recommend using a different Genesis flash cartridge all together, but this one works for me.
 
 [The MD Pro 64M](http://www.tototek.com/store/index.php?main_page=product_info&amp;products_id=59) is available at Tototek.
 
