@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Automation for CommentSold
+title:  App Development and Electronics
 date:   2018-08-30 06:00:00-0600
 tags:   development
 ---
