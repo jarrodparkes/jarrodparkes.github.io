@@ -1,12 +1,11 @@
 ---
 layout: default
 ---
-
 <div class="home">
     <ul class="posts">
-        {% assign books = (site.posts | where: "layout" , "book") %}
-        {% for book in books %}
-        <li><span>{{ book.date | date: site.date_format }}</span>{{ content }}</li>
+        {% assign presentations = (site.posts | where: "layout" , "book") %}
+        {% for presentation in presentations %}
+        <li><span>{{ presentation.date | date: site.date_format }}</span><a href="{{ presentation.url | prepend: site.baseurl }}">{{ presentation.title }}</a></li>
         {% endfor %}
     </ul>
 </div>
