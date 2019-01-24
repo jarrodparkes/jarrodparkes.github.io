@@ -5,7 +5,9 @@ date:   2019-01-03 06:00:00-0600
 tags:   book
 ---
 
-_by Eric Schmidt and Jonathan Rosenburg_
+_How Google Works by Eric Schmidt and Jonathan Rosenburg_
+
+My Notes
 
 - things a company should have
     - you need a mission, mission ideas for CS
