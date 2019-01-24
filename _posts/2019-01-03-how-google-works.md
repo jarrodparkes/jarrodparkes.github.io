@@ -1,0 +1,112 @@
+---
+layout: book
+title:  Book Report - How Google Works
+date:   2019-01-03 06:00:00-0600
+tags:   book
+---
+
+_by Eric Schmidt and Jonathan Rosenburg_
+
+- things a company should have
+    - you need a mission, mission ideas for CS
+        - products that make things "easy to sell, easy to buy"
+        - e-commerce, made easy
+        - buyer-centric vs. seller-centric vs. both?
+        - meetings buyers and sellers were they are
+        - increasing seller reach
+    - you need a workspace conducive for smart creatives
+        - open work spaces
+        - but it should also have places to retreat
+        - also some that are nice and quiet for focused work
+    - you need values
+        - listing comment sold cultural values
+            - no opinion is better than another because of tenure
+            - the best ideas win
+            - nothing is sacred
+                - the project you worked on all weekend may not be the one we need to use
+                - the project that made us 1st million might not be the one that will help us 10x
+- finding direction, making decisions
+    - all product decisions should be based on a technical insights, not unfounded opinions
+    - open platforms grow faster, consider them for certain problems and areas — especially when challenging big incumbent companies
+    - don’t obsess over competitors
+        - know who they are and be “proud” of them, but don’t copy them — you’ll just me incrementally growing and not truly innovate
+- hiring
+    - should be peer based
+    - set standards really high, find people’s passion in the interview, hire learners (growth mindsets and grit!)
+    - you want smart generalists not specialists!
+    - ask yourself, would you want to be stuck in an airport with this person for 6 hours? Hire interesting people! But not necessarily people you like
+    - you don’t have to hire someone with Java experience for a Java job, hire the best engineer you can and if they know Java that’s just a bonus
+    - hire someone who you know has high potential career trajectory
+    - during interviews ask questions that will show off candidate's thinking, not their resume
+        - “How did you pay for college?” “If I was to look at your browser history what would I learn that isn’t on your resume?”
+    - don’t hire people that give generic answers
+    - good interviews should last about 30 minutes
+    - final hiring decisions should be left to committee
+    - don’t hire people who prefer to work alone
+    - don’t hire people who just want a job
+- teams/careers
+    - to keep smart creatives, keep their jobs interesting by all means possible
+        - ex: have them shadow CEO for 6 months
+        - ex: set them on useful tasks (even if it is outside their comfort zone), don’t let them settle
+    - team building
+        - “Make managers trade away their MnMs, let them keep the raisins”
+    - people leaving a company usually isn’t b/c compensation, so listen carefully to what they are frustrated with
+    - career growth is like surfing
+        - you want to surf in the right industry/spot and try to catch the best wave/company and ride it as long as you can
+    - everyone should get good at statistics/data b/c it is going to be just as big as coding in the next decade
+    - everyone should think like a CEO and read!
+    - imagine you run into your CEO in the hallway and they ask what your working on. What do you say? Is it a solid pitch?
+- meetings
+    - all meeting rooms at google has two TVs, one for teleconference and one for data
+        - have a bias for data in making decisions
+        - also a bias for action when data/debate no longer yields any new learning
+    - meeting regularly for decisions that are fundamental to the company can be a good thing
+    - data and a speech don’t convince people, but data a speech and appealing to emotions do — “the Oprah rule”
+    - all meetings should have an organizer & decision maker
+        - organize/decision maker sends the invites, has the agenda 24hrs in advance, and sends summary/decisions made email afterward
+    - all meetings can be cancelled at any time for not having organizer or agenda
+- 80/20 rule: spend 80% of your time on 80% of your revenue
+- data
+    - company should default to open; share as much information as efficiently as possible to everyone
+        - all OKRs, even personal ones, should be shared
+        - only things that have legal ramifications shouldn't be shared
+    - presentations should have less slides and focus on quality charts/data
+- company communication
+    - leadership needs to "know the details", don't be hands-off
+        - Eric S. keeps a list of questions for people on Apple Notes so he can bring them up when he sees those people
+    - having a system like Canny for internal company questions to ask upper management can be a good way to help those who have trouble asking questions in big open scenarios (as long as all questions are asked in good will, this can become toxic too)
+    - real conversation trumps chat
+    - write down your own user manual for yourself (interesting idea 💡)
+    - company “snippets” — a place where everyone writes down weekly short notes about what got done, short reflection, etc (like a big public diary for the company)
+    - over communicate the important big ideas or values and do it honestly, with varied media, and to the people you want to hear it
+        - don’t just “send all”, not give a reason you think it is relevant, and not direct the conversation to something productive
+    - "trip reports" are an effective meeting tool to get everyone talking "where did you go, what did you learn"
+    - if you are a manager, ask yourself: Would you work for you?
+    - answer emails quickly, keep your inbox clean, don't waste time, don't YELL, be concise
+    - continually be looking ahead, what can we be doing better, should we be looking at other products/solutions, are we the best in our field?
+    - business partnership comm. should be based on diplomacy, it is better when we work together even if our ideologies might differ
+    - when speaking with the press have insights not canned responses
+    - communication idea: don’t work on anything for a week and just talk to people across the company to learn about problems and processes
+- innovation
+    - Innovation - radically new things; but also when 500 incremental changes combine to make something great
+    - innovative culture should support the crazy person trying something new and the first adopters who add fuel to the fire
+    - focus on the user, and the revenue will follow (user-first)
+    - 10x
+        - **you aren’t thinking big enough, w/e you’re thinking about 10x it!**
+        - doing 10% better requires tweaks, doing 10x better requires rethink
+        - ask how you could 10x a metric, it will require radical change!
+    - all green OKRs are bad, you didn’t set your targets high enough
+    - 70/20/10 resource allocation core/successful-ideas/crazy-ideas
+    - constraints force creativity, a lack of resources forces ingenuity
+        - don’t over-budget innovation, you can MVP something for real cheap!
+    - 20% time
+        - 20% time is for individuals time, not to be confused with 70/20/10 resource allocation
+        - 20% time really isn’t about time, it’s about freedom, it’s freedom to work on something even though you weren’t asked to — it’s just because you’re motivated about it
+        - You don’t get compensation bonuses for 20% projects, compensation will dilute innovation
+    - “Demo days” are a way that google encourages people to build prototypes; most won’t go on to be a product, but everyone will learn something, collaboration, and be able to bring that back to their work
+    - Ship and Iterate quickly and use data to feed the winners and starve the losers
+    - Don’t ship crappy products tho, ship MVPs that are quality and could get to the wow moment within a few iterations
+- the future...
+    - how will you go to smart creatives or get them to come to you?
+    - What are your competitive advantages? What would you do if you lost them? Would your customers stay?
+    - How will emerging technology effect your business?

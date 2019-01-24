@@ -1,0 +1,12 @@
+---
+layout: default
+---
+
+<div class="home">
+    <ul class="posts">
+        {% assign books = (site.posts | where: "layout" , "book") %}
+        {% for book in books %}
+        <li><span>{{ book.date | date: site.date_format }}</span>{{ content }}</li>
+        {% endfor %}
+    </ul>
+</div>

@@ -1,0 +1,9 @@
+---
+layout: default
+---
+
+<article class="book">
+    <h2 class="book-header">{{ page.title }}</h2>
+    <p class="book-meta">{{ page.date | date: site.date_format }}</p>
+    {{ content }}
+</article>
