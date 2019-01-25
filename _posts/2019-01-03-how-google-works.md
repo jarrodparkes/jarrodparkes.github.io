@@ -1,11 +1,11 @@
 ---
 layout: book
-title:  Book Report - How Google Works
+title:  Book Club - How Google Works
 date:   2019-01-03 06:00:00-0600
 tags:   book
 ---
 
-_How Google Works by Eric Schmidt and Jonathan Rosenburg_
+_"How Google Works" by Eric Schmidt and Jonathan Rosenburg_
 
 My Notes
 
