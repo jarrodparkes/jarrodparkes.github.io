@@ -1,6 +1,6 @@
 ---
 layout: book
-title:  Book Club - The Lean Startup
+title:  The Lean Startup
 date:   2018-11-27 06:00:00-0600
 tags:   book
 ---

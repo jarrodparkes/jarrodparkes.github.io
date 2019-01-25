@@ -1,6 +1,6 @@
 ---
 layout: book
-title:  Book Club - How Google Works
+title:  How Google Works
 date:   2019-01-03 06:00:00-0600
 tags:   book
 ---
