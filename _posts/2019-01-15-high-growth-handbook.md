@@ -1,8 +1,8 @@
 ---
-layout: book
+layout: review
 title:  High Growth Handbook
 date:   2019-01-15 06:00:00-0600
-tags:   book
+tags:   review
 ---
 
 _"High Growth Handbook" by Elad Gil_

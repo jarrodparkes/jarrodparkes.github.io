@@ -1,8 +1,8 @@
 ---
-layout: book
+layout: review
 title:  Don't Make Me Think
 date:   2018-12-02 06:00:00-0600
-tags:   book
+tags:   review
 ---
 
 _"Don't Make Me Think" by Steve Krug_

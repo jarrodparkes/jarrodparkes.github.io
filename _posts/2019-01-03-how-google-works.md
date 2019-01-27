@@ -1,8 +1,8 @@
 ---
-layout: book
+layout: review
 title:  How Google Works
 date:   2019-01-03 06:00:00-0600
-tags:   book
+tags:   review
 ---
 
 _"How Google Works" by Eric Schmidt and Jonathan Rosenburg_

@@ -1,8 +1,8 @@
 ---
-layout: book
+layout: review
 title:  Who - The A Method of Hiring
 date:   2019-01-25 06:00:00-0600
-tags:   book
+tags:   review
 ---
 
 _"Who: The A Method of Hiring" by Geoff Smart and Randy Street_

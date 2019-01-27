@@ -1,8 +1,8 @@
 ---
-layout: book
+layout: review
 title:  The Lean Startup
 date:   2018-11-27 06:00:00-0600
-tags:   book
+tags:   review
 ---
 
 _"The Lean Startup" by Eric Ries_
