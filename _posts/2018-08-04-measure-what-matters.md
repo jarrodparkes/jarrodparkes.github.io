@@ -14,6 +14,9 @@ My Notes
 - terms
     - objective: what to achieve
     - key results: how to achieve the objective
+- example
+    - objective: prove our value to customers FAST!
+    - key results: (1) reduce the time to "commit and purchase" by 50% (2) 90% of new users purchase within the first 24 hours
 - life always gives you plenty to do, don't forget the things that matter
 - alignment: does this activity align to reach our company goal?
 - focus, align, track, and stretch

@@ -13,10 +13,10 @@ My Notes
 
 - people have power
 - you don’t need tons of programs to empower people; instead, you need to remind them of their power and give them the freedom is exercise it
-- be radically honest and accept questions and open, honest debate
-- be fact based
+- be radically honest, accept questions, and have open, honest debate
+- be fact-based
 - it’s not about process and procedure; it’s about discipline
-- outside resource: Netflix culture deck (add link)
+- outside resource: [Netflix culture deck](https://jobs.netflix.com/culture)
 
 ## Treat People Like Adults
 
@@ -59,7 +59,7 @@ My Notes
 - Think of your team as a sports team, not a family — some people may have to leave or move on, you’ll occasionally need to add more pieces to win, and sometimes people can be groomed into new positions
 - You probably don’t need more people... you probably need less people with more skills
 - Trying to grow someone into a new role usually isn’t better than just bringing in someone who has experience doing that role
-- [my thoughts] Netflix and I’m sure many other companies aren’t going to invest in you... that put that responsibility on you, not them; that sucks, but just proves that if you want a new role you’re going to have to go it yourself and it may require you up-skill yourself instead of relying on the company to do it for you
+- [my thoughts] Netflix and I’m sure many other companies aren’t going to invest in you... they put that responsibility on you, not them; that sucks, but just proves that if you want a new role you’re going to have to get it yourself, and it may require you up-skill yourself instead of relying on the company to do/reimburse it for you
 - ^ The business’ responsibility is refining the product, finding the market, and growing
 
 ## Someone Really Smart in Every Single Job
@@ -69,7 +69,7 @@ My Notes
 - Hiring managers need to be as engaged as anyone in HR/people when it comes to finding and hiring the best folks
 - At Netflix the hiring managers made the ultimate decision and the people operations folks laid the groundwork
 - At Netflix, everyone in recruiting knows the business just as well as any executive
-- All hiring managers should create a nurture their own talent pipeline
+- All hiring managers should create and nurture their own talent pipeline
 
 ## Pay People What They Are Worth to You
 
