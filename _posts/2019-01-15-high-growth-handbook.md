@@ -25,10 +25,10 @@ My Notes
 - Learn to say No, Delegate, Audit schedule monthly
 - as company grows product syncs may become more advantageous for CEOs than daily scrums
 - Give up old responsibilities, stay healthy, take vacation once a year, work on the stuff you love
-- Hold “skip level” meetings (upper-level management bypasses mid-level management to talk directly to non-managerial employees) with folks on the front lines every now and again
+- Hold "skip level" meetings (upper-level management bypasses mid-level management to talk directly to non-managerial employees) with folks on the front lines every now and again
 
 ### The CEO Growing with Company
-- “Working with (employee)” guides can be extremely useful
+- "Working with (employee)" guides can be extremely useful
 - As company scales, so too should your processes and communication; getting everyone on the same page and aligned (OKRs) and operating efficiently (scrum/product)
 - For each department, who makes the final decision? What decisions can I make without the CEO/manager? Which decisions do I need to run by them? This can be good to know explicitly.
 - Codify company’s long term goals,  values, and how the CEO wants to be involved
@@ -104,7 +104,7 @@ My Notes
 - make sure the person fits the next 12-18 month trajectory of company in terms of experience and expertise
 - do they think like owners; could they lead and scale out a portion of the business?
 - ask CxOs from other companies what makes a great person for their role and take elements of that for your own hiring of a CxO
-- always reference check exec candidates and ask “if this person joined my company, would you come too?”
+- always reference check exec candidates and ask "if this person joined my company, would you come too?"
 - good exec hires should be thinking 6-12 months in advance (not 5 years)
 - typically you know an exec hire is doing well by the number of people heading to their desk to ask questions (both on their team and across function)
 - exec meetings with the CEO are often much more beneficial to the execs working laterally with each other than the CEO (who has been getting updates from exec during weekly 1-on-1's)
@@ -126,7 +126,7 @@ My Notes
 
 ### BD Hiring
 - Good BD people are extremely detail oriented, structured, tenacious, willing to walk away from a bad deal, put company first, have a sharp eye for legal issues even if no legal background, charismatic
-- Bad BD people may be great sellers but terrible closers; not detail oriented, make too many give/give/give promises (impatient), rush to close deals, don’t think like an owner, they optimize for themselves and not the company, they display a “cowboy” mentality
+- Bad BD people may be great sellers but terrible closers; not detail oriented, make too many give/give/give promises (impatient), rush to close deals, don’t think like an owner, they optimize for themselves and not the company, they display a "cowboy" mentality
 - When screening BD, check their references and see their history of deals struck
 
 ### Scaling
@@ -138,15 +138,15 @@ My Notes
 ### Restructuring and Scale
 - There is no perfect organizational structure— when restructuring think next 6-12 months
 - Reorg quickly and fully — don’t drag it out and don’t do it partially; otherwise you’ll open yourself up to lobbying and politicking across the company
-- during rapid, exponential growth, it may make sense to have someone in a “wolf” role who works cross functionally as a band-aid until an executive(s) can take over operations in that area (wolf isn’t a long term solution)
+- during rapid, exponential growth, it may make sense to have someone in a "wolf" role who works cross functionally as a band-aid until an executive(s) can take over operations in that area (wolf isn’t a long term solution)
 - During periods of scale, many positions that may have been more broad during startup will become more focused — employees that are able to make adjustments into their more focused roles and scale with the company will succeed
 - Growth and scale can be a tough time with roles/reporting structure changing — advice to stick it out: keep working hard and doing good work, continue to think like a CEO, and strive for all the work you do to help the company’s top level objectives
 - When companies are experiencing rapid growth, you’ll look like a new company every 6-12 months, change will be inevitable so just expect it
 - Steer your companies culture, and revisit your values regularly so that you can filter new hires who aren’t a good culture fit. What are CS values?
 
 ### Company Culture
-- be explicit about your culture; don’t say things like “we’re detail oriented”; say things like “at X, we expect superb quality and we may rework your designs and code multiple times before it is adequate”
-- Culture IS important, but remember it can change and you should revisit it; don’t let early culture such as “our company grew because flat organization” hold the company back it is is scaling at that value no longer makes sense — maybe it does, maybe it doesn’t, you’ll have to make that call
+- be explicit about your culture; don’t say things like "we’re detail oriented"; say things like "at X, we expect superb quality and we may rework your designs and code multiple times before it is adequate"
+- Culture IS important, but remember it can change and you should revisit it; don’t let early culture such as "our company grew because flat organization" hold the company back it is is scaling at that value no longer makes sense — maybe it does, maybe it doesn’t, you’ll have to make that call
 - New exec hires will undoubtably change culture, and that is fine — that is likely why they were hired in the first place; communicate this change to folks, let them know the direction you are wanting to steer the company culture; doing more of this upfront will help avoid long, drawn out frustrations from people who may not be a good fit anymore as the company scales
 - Don’t get attached to what your culture was/is; be aware that company culture will and should evolve as your company grows
 - When growing internationally it can be very helpful to have people in the (cultural) HQ before sending them out to the new office; likewise, starting a new global office can be much more successful by planting an experienced employee with strong culture there (at least to start) and then building around it
@@ -174,7 +174,7 @@ My Notes
 - PMs are the CEO of a product
 - PMs act as buffer between sales/customers directly lobbying engineering
 - PMs make trade offs between design and engineering and business to build the right product
-- PMs are not just project “managers”, they should understand the product, prioritize work, be cross functional, create roadmaps, listen to customers/sales/market for new requests, analyze data, know how the product competes in the marketplace, it’s strengths, competitive advantages, etc
+- PMs are not just project "managers", they should understand the product, prioritize work, be cross functional, create roadmaps, listen to customers/sales/market for new requests, analyze data, know how the product competes in the marketplace, it’s strengths, competitive advantages, etc
 - Types of PMs: business, technical, design-centric, and growth — can be a mixture of these
 - PMs should have the ability to prioritize requests not just schedule them
 - Hiring PMs: what products do you use? How would you design a product? How have you dealt with competing requests in the past? Example of pushing back or green lighting a feature (how did you make the decision?)? What metrics would you track for our product? (What behaviors may they encourage?) how to determine a successful launch? Get an idea for how autonomous they have been in creating, selling, and then deploying an idea
@@ -200,7 +200,7 @@ My Notes
 
 ### IPO
 - companies should go public as soon as they’re able: (1) upcoming quarters are predictable (2) 50 million in revenue (3) low variance quarter-to-quarter
-- Create an “IPO team” is very helpful
+- Create an "IPO team" is very helpful
 - In any round of funding try to keep as much ownership and board as possible
 - Selling common stock can be a way to expand whole keeping control
 - Early investors will likely be much more loyal than people jumping in late rounds

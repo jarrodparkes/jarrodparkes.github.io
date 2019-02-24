@@ -15,7 +15,7 @@ Since I started school this spring, it has been difficult for me to find time fo
 
 TreeHouse is teaching technology "the right way". They are not teaching out of a boring textbook, from a chalkboard, or behind a lectern (especially for computer-based topics). Instead, they teach technology with technology—using brilliantly crafted video tutorials, in-browser quizzes, and challenging follow along examples. If only I had discovered TreeHouse sooner and not wasted hours and dollars with college courses that fail to teach the same concepts!
 
-On their website, you can find learning materials for topics like front-end web design (CSS, JS, HTML), back-end web development, mobile development, and the list goes on. I have found myself taking their “do-it-yourself” examples and adapting them for my own side projects which is awesome. Without a doubt, Treehouse has been crucial for me.
+On their website, you can find learning materials for topics like front-end web design (CSS, JS, HTML), back-end web development, mobile development, and the list goes on. I have found myself taking their "do-it-yourself" examples and adapting them for my own side projects which is awesome. Without a doubt, Treehouse has been crucial for me.
 
 And it does not stop there! TreeHouse also includes content for how to start your own business. How convenient! Needless to say, I have watched every single one of those videos.
 

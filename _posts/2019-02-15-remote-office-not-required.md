@@ -20,7 +20,7 @@ _"Remote: Office Not Required" by Jason Fried and David Hansson_
 
 # My Notes
 
-- remote working is now feasible with tech and practical because offices are not the best places to “get stuff done” and commutes are bad for your health, time, and well-being
+- remote working is now feasible with tech and practical because offices are not the best places to "get stuff done" and commutes are bad for your health, time, and well-being
 - remote work doesn’t need the 9am-5pm; it’s need moments of collaboration, but ultimately gives employees the freedom and responsibility to do work on their own terms wherever is best (ideally w/ a personalized, ergonomically-designed desk); it also supports keeping great employees through life change that has nothing to do with the job (getting married, wanting warmer weather, being close to family)
 - remote work is built on trust and assumes you hire people capable of managing their own schedule and being a professional — if that isn’t possible, then find other people to work with
 - remote work exposes bad practices of "people management" because it is work-centric; managers have to know the technical details and what "good work" looks like — you can't get by with "chair managers"

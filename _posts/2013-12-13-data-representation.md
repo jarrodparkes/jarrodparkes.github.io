@@ -13,7 +13,7 @@ Yes! I am finally back after a long, trying semester of college. To reorient mys
 
 ## **Binary Introduction**
 
-Computers use the **base-2 number** system—more commonly referred to as **binary**. The digit “2” in the word “base-2” is related to the two values used in the binary number system: “0” and “1”. By combining 0's and 1's, we can create binary numbers—each digit in a binary number is known as a bit. For computers, the bits zero and one have the special meaning of being either “on” or “off”, “true” or “false”, “high” or “low”. These special meanings refer to whether or not a component in a computer is holding a specific electrical voltage. To avoid confusion, see the simple visual example (below) in Figure 2.1.
+Computers use the **base-2 number** system—more commonly referred to as **binary**. The digit "2" in the word "base-2" is related to the two values used in the binary number system: "0" and "1". By combining 0's and 1's, we can create binary numbers—each digit in a binary number is known as a bit. For computers, the bits zero and one have the special meaning of being either "on" or "off", "true" or "false", "high" or "low". These special meanings refer to whether or not a component in a computer is holding a specific electrical voltage. To avoid confusion, see the simple visual example (below) in Figure 2.1.
 
 ![data-representation]({{ site.url }}/images/data-representation.png "data-representation")
 

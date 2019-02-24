@@ -9,4 +9,4 @@ I just started a new role at [Spur](https://spurjobs.com) as an iOS Engineer and
 
 I’ve been tossing around the idea of building a Gameboy emulator with my neighbor who is also a software engineer. I’ve been wanting to embark on a challenge like this since I started writing code. Understanding a system well enough to write an emulator would be new and exciting territory for me; the prospect of building an emulator and seeing an existing Gameboy title run on top of it... that sounds especially awesome to me.
 
-I’ll keep this short. I want my blog to become a habit not a chore. I’m also reading through “The Everything Store” about Amazon’s rise from a garage startup to a global retail power — I’ll post my notes soon.
+I’ll keep this short. I want my blog to become a habit not a chore. I’m also reading through "The Everything Store" about Amazon’s rise from a garage startup to a global retail power — I’ll post my notes soon.

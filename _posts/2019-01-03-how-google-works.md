@@ -31,7 +31,7 @@ My Notes
     - all product decisions should be based on a technical insights, not unfounded opinions
     - open platforms grow faster, consider them for certain problems and areas — especially when challenging big incumbent companies
     - don’t obsess over competitors
-        - know who they are and be “proud” of them, but don’t copy them — you’ll just me incrementally growing and not truly innovate
+        - know who they are and be "proud" of them, but don’t copy them — you’ll just me incrementally growing and not truly innovate
 - hiring
     - should be peer based
     - set standards really high, find people’s passion in the interview, hire learners (growth mindsets and grit!)
@@ -40,7 +40,7 @@ My Notes
     - you don’t have to hire someone with Java experience for a Java job, hire the best engineer you can and if they know Java that’s just a bonus
     - hire someone who you know has high potential career trajectory
     - during interviews ask questions that will show off candidate's thinking, not their resume
-        - “How did you pay for college?” “If I was to look at your browser history what would I learn that isn’t on your resume?”
+        - "How did you pay for college?" "If I was to look at your browser history what would I learn that isn’t on your resume?"
     - don’t hire people that give generic answers
     - good interviews should last about 30 minutes
     - final hiring decisions should be left to committee
@@ -51,7 +51,7 @@ My Notes
         - ex: have them shadow CEO for 6 months
         - ex: set them on useful tasks (even if it is outside their comfort zone), don’t let them settle
     - team building
-        - “Make managers trade away their MnMs, let them keep the raisins”
+        - "Make managers trade away their MnMs, let them keep the raisins"
     - people leaving a company usually isn’t b/c compensation, so listen carefully to what they are frustrated with
     - career growth is like surfing
         - you want to surf in the right industry/spot and try to catch the best wave/company and ride it as long as you can
@@ -63,7 +63,7 @@ My Notes
         - have a bias for data in making decisions
         - also a bias for action when data/debate no longer yields any new learning
     - meeting regularly for decisions that are fundamental to the company can be a good thing
-    - data and a speech don’t convince people, but data a speech and appealing to emotions do — “the Oprah rule”
+    - data and a speech don’t convince people, but data a speech and appealing to emotions do — "the Oprah rule"
     - all meetings should have an organizer & decision maker
         - organize/decision maker sends the invites, has the agenda 24hrs in advance, and sends summary/decisions made email afterward
     - all meetings can be cancelled at any time for not having organizer or agenda
@@ -79,9 +79,9 @@ My Notes
     - having a system like Canny for internal company questions to ask upper management can be a good way to help those who have trouble asking questions in big open scenarios (as long as all questions are asked in good will, this can become toxic too)
     - real conversation trumps chat
     - write down your own user manual for yourself (interesting idea 💡)
-    - company “snippets” — a place where everyone writes down weekly short notes about what got done, short reflection, etc (like a big public diary for the company)
+    - company "snippets" — a place where everyone writes down weekly short notes about what got done, short reflection, etc (like a big public diary for the company)
     - over communicate the important big ideas or values and do it honestly, with varied media, and to the people you want to hear it
-        - don’t just “send all”, not give a reason you think it is relevant, and not direct the conversation to something productive
+        - don’t just "send all", not give a reason you think it is relevant, and not direct the conversation to something productive
     - "trip reports" are an effective meeting tool to get everyone talking "where did you go, what did you learn"
     - if you are a manager, ask yourself: Would you work for you?
     - answer emails quickly, keep your inbox clean, don't waste time, don't YELL, be concise
@@ -105,7 +105,7 @@ My Notes
         - 20% time is for individuals time, not to be confused with 70/20/10 resource allocation
         - 20% time really isn’t about time, it’s about freedom, it’s freedom to work on something even though you weren’t asked to — it’s just because you’re motivated about it
         - You don’t get compensation bonuses for 20% projects, compensation will dilute innovation
-    - “Demo days” are a way that google encourages people to build prototypes; most won’t go on to be a product, but everyone will learn something, collaboration, and be able to bring that back to their work
+    - "Demo days" are a way that google encourages people to build prototypes; most won’t go on to be a product, but everyone will learn something, collaboration, and be able to bring that back to their work
     - Ship and Iterate quickly and use data to feed the winners and starve the losers
     - Don’t ship crappy products tho, ship MVPs that are quality and could get to the wow moment within a few iterations
 - the future...

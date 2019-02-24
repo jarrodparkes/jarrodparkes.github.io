@@ -67,11 +67,11 @@ My Notes
 45. nothing or "no action" is an option that might be worth considering for certain problems
 46. it’s possible to over optimize and shave your resources/effort too thin (ex: 2 minute response times)
 47. unless you’ve done the best practice before, then telling others to use the best practice based on assumptions is a bad idea
-48. don't say "whatever it takes", instead ask “what will it take?”
+48. don't say "whatever it takes", instead ask "what will it take?"
 49. essentialism!
 50. teams of three are the best (ex: 2 programmers and a design)
-51. don't pull people off of projects for the “new idea”; wait until the new idea bakes for a little while and current projects finish... then consider it
-52. if you say “no” now, then you can always say “yes” later; if you say "yes" now it is much harder to undo
+51. don't pull people off of projects for the "new idea"; wait until the new idea bakes for a little while and current projects finish... then consider it
+52. if you say "no" now, then you can always say "yes" later; if you say "yes" now it is much harder to undo
 53. take calculated risks
 54. find creative ways to break the monotony of work as seasons/projects change
 55. keep costs in check, don't go into the red
@@ -81,25 +81,25 @@ My Notes
 59. to be calm, you have to forget worrying about copycats, focus on making your product better
 60. you don't have to force everyone to update to the newest version
 61. initially you play offense only, but once you grow your business, you have to play defense too
-62. if you take the “it’s not big deal” approach to a problem, then the customer or other person takes the “it’s the end of the world” approach
+62. if you take the "it’s not big deal" approach to a problem, then the customer or other person takes the "it’s the end of the world" approach
 63. aim for sustainability and profitability
 
 ## Full Notes
 
 **Your Company is a Product**
 
-- companies should evolve like your product does; you should constantly iterate towards better processes; “we’re on version 57 of our company”
+- companies should evolve like your product does; you should constantly iterate towards better processes; "we’re on version 57 of our company"
 - many companies use the processes that are hot when they start but they never change
 - a calm company is a destination and its counterintuitive to most of what you hear; you’ll have to be persistent and make small changes towards it overtime
 
 **Curve Your Ambition**
 
-- fight against the “hustle” and work smarter not harder
-- IMO “I spent an entire week of sleepless nights to get it done is actually much less intelligent of a decision than I spent a normal work week to get in done” <— find ways to be productive with the right amount of time and then go and enjoy your life; it will make you a better employee anyways
+- fight against the "hustle" and work smarter not harder
+- IMO "I spent an entire week of sleepless nights to get it done is actually much less intelligent of a decision than I spent a normal work week to get in done" <— find ways to be productive with the right amount of time and then go and enjoy your life; it will make you a better employee anyways
 
 **Happy Pacifists**
 
-- when “winning at business” is akin to a war, then it is no wonder that people will take a “whatever it takes” mentality and end up burning their employees in the long run
+- when "winning at business" is akin to a war, then it is no wonder that people will take a "whatever it takes" mentality and end up burning their employees in the long run
 
 **Our Goal: No Goals**
 
@@ -118,7 +118,7 @@ My Notes
 
 **Comfy School**
 
-- “always be uncomfortable/striving” doesn’t really sound that effective; instead, they recommend that a moment something doesn’t feel right that is a moment to back off and dive deeper into understanding or figuring out the problem
+- "always be uncomfortable/striving" doesn’t really sound that effective; instead, they recommend that a moment something doesn’t feel right that is a moment to back off and dive deeper into understanding or figuring out the problem
 - ^ and that sounds much better than just being uncomfortable for the sake of being uncomfortable (because it might make your more successful)
 
 **Defend Your Time**
@@ -315,7 +315,7 @@ My Notes
 
 **Whatever It Takes**
 
-- instead ask “what will it take?”
+- instead ask "what will it take?"
 
 **Have Less to Do**
 
@@ -330,13 +330,13 @@ My Notes
 
 **Stick With It**
 
-- avoid pulling people off of projects for the “new idea”
-- make all new ideas “bake” for a little while (a week minimum) before deciding or redirecting effort there
+- avoid pulling people off of projects for the "new idea"
+- make all new ideas "bake" for a little while (a week minimum) before deciding or redirecting effort there
 - remember projects last a max of 6 weeks, so you can redirect efforts once your done with the current project
 
-**Know “No”**
+**Know "No"**
 
-- if you say “no” now, then you can always say “yes” later
+- if you say "no" now, then you can always say "yes" later
 
 **Mind Your Business**
 
@@ -381,7 +381,7 @@ My Notes
 
 **No Big Deal or The End of the World**
 
-- if you take the “it’s not big deal” approach to a problem, then the customer or other person takes the “it’s the end of the world” approach
+- if you take the "it’s not big deal" approach to a problem, then the customer or other person takes the "it’s the end of the world" approach
 - people want to be heard and respected
 
 **The Good Ole Days**

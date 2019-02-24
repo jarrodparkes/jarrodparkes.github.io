@@ -21,7 +21,7 @@ The NES Powerpak is THE flash cartridge for the NES. A flash cartridge, for thos
 
 ![nes-retroport]({{ site.url }}/images/nes-retroport.png "NES Retroport")
 
-If you do not want to make the big investment on the NES Powerpak, you can still play your homebrew on an emulator using the correct controller. The NES RetroPort is a “no non-sense” adapter that allows you to plug an original NES controller into a standard USB port. I like this option over third-party USB controllers because you can use an actual NES controller, instead of a cheaply made retrofit that may not feel right in your hands. There are no drivers required for NES Retroport and it works for both my Macbook and PC.
+If you do not want to make the big investment on the NES Powerpak, you can still play your homebrew on an emulator using the correct controller. The NES RetroPort is a "no non-sense" adapter that allows you to plug an original NES controller into a standard USB port. I like this option over third-party USB controllers because you can use an actual NES controller, instead of a cheaply made retrofit that may not feel right in your hands. There are no drivers required for NES Retroport and it works for both my Macbook and PC.
 
 [The NES Retroport](http://www.retrousb.com/product_info.php?products_id=28) is available at RetroUSB.
 

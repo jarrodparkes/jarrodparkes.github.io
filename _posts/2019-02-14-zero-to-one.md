@@ -5,7 +5,7 @@ date:   2019-02-14 10:00:00-0600
 tags:   review
 ---
 
-_"Zero to One” by Peter Thiel_
+_"Zero to One" by Peter Thiel_
 
 ---
 
@@ -31,7 +31,7 @@ Companies need to be able to answer these 7 questions:
 
 ## The Challenge of the Future
 
-- a question to ponder: “what important truth do very few people agree with you on?”
+- a question to ponder: "what important truth do very few people agree with you on?"
 - ^ for me, it is that many technologies current and PAST (IMO this is where I really diverge) are hurting more than they are helping — especially relationships, families, and our mental and spiritual well-being; we cannot blindly pursue certain new technologies for the sake of technology, and we need to be really careful and examine existing technologies with the goal of restoring certain aspects of society and the individual that have helped humans thrive for centuries
 - ^ other idea: anywhere the current US educational systems have students practicing some form of route memorization should be eliminated — computers are so much better at that than humans; we should be focusing on problem solving and the skills that enable the best problem solvers to do what they do
 - ^ other idea: the underlying sexualization of so much of our entertainment is really hurting the ability for people to make long-term relationships and successful families; we should be avoiding it at all costs and have better ways to spend our (idle) time
@@ -41,8 +41,8 @@ Companies need to be able to answer these 7 questions:
 
 ## Party Like It’s 1999
 
-- start with “what does everyone agree with?”
-- the early 90s are less remembered but include the fall of the Berlin Wall, technological optimism, the dot com crash, and a return to a globalism focus and “bricks” instead of “clicks”
+- start with "what does everyone agree with?"
+- the early 90s are less remembered but include the fall of the Berlin Wall, technological optimism, the dot com crash, and a return to a globalism focus and "bricks" instead of "clicks"
 - stay lean and flexible and keep taking small steps
 - you need a bit of the 90s hubris, but maybe not the blind optimism
 
@@ -65,11 +65,11 @@ Companies need to be able to answer these 7 questions:
 - a companies value is the sum of its future revenues
 - if you only focus on the near term you may not be able to sustain; will this company be profitable in 10 years?
 - durability can come from having proprietary tech, but that tech must be 10x better than anything else
-- durability through network is possible; “all my friends are on Facebook so I should get on it too”, but you’ll need solid first adopters and to grow that network large before it provides that kind of durability
+- durability through network is possible; "all my friends are on Facebook so I should get on it too", but you’ll need solid first adopters and to grow that network large before it provides that kind of durability
 - durability by economies of scale
 - durability by brand
 - start with smallest market possible and monopolize it — this is much easier than trying to monopolize a huge market
-- remember: you want to avoid your competitors, get away from them and don’t worry about “disrupting”
+- remember: you want to avoid your competitors, get away from them and don’t worry about "disrupting"
 - start small and expand to into adjacent markets
 
 ## You Are Not a Lottery Ticket

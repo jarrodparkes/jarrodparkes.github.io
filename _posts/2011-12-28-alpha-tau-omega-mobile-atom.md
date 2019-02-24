@@ -7,7 +7,7 @@ tags: ios
 
 ![atom-cover]({{ site.url }}/images/atom-cover.png "Alpha Tau Omega Mobile (ATOM)")
 
-Alpha Tau Omega Mobile, or “ATOM”, was my first iPhone application. I designed the app for my chapter of ATO at the University of Alabama in Huntsville.
+Alpha Tau Omega Mobile, or "ATOM", was my first iPhone application. I designed the app for my chapter of ATO at the University of Alabama in Huntsville.
 
 ATOM is a basic management tool for a fraternity. It included a simple tab-based design inspired by Twitter. The tabs included the following sections and functionality:
 

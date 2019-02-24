@@ -48,12 +48,12 @@ My Notes
 ## Part 2: The Scorecard
 
 - It’s a blueprint for an A player consisting of mission, outcomes, and competencies
-- Mission - super concise (1-5 sentences), plain language description of why the job exists “to own and develop all the android apps for comment sold”
+- Mission - super concise (1-5 sentences), plain language description of why the job exists "to own and develop all the android apps for comment sold"
 - Don’t hire generalists (seems to contradict some with Google’s smart creative mantra)
 - Mission statement should evolve over time
 - Outcomes are 3-8 tangible things the person should achieve (like KR’s)
 - Outcomes weed out B and C candidates because they are tangible results expected to be achieved instead of just a broad list of responsibilities that can be stretched
-- Outcome example “Recreate our baseline Android shopping app with scalable architecture in first 90 days of start date” or “Redeploy 100+ Android shopping apps using new baseline in first 120 days”
+- Outcome example "Recreate our baseline Android shopping app with scalable architecture in first 90 days of start date" or "Redeploy 100+ Android shopping apps using new baseline in first 120 days"
 - Instead of guessing whether they will be good fit or not, they know
 - Competencies define how you expect the new hire to operate in the fulfillment and the job and achievement of outcomes
 - Critical competencies for A players: efficiency - able to produce significant output with minimal effort; honesty - doesn’t cut corners, speaks plainly; focused - focuses on key priorities; proactive - takes initiative and is unafraid to respectfully raise issues or problems; scale-oriented - constantly thinks with 10x in mind; architecture - writes, clean, DRY, easy to use code; intelligent - lives to learn; and learns quickly; flexibility; teamwork; egoless; data-driven; creative; etc (these should really match YOUR needs)
@@ -65,13 +65,13 @@ My Notes
 ## Part 3: Sourcing A-Players
 
 - Best place to source a players is from your personal an professional networks
-- “Who is the most talented person/people you know [for X job] that I should hire?” ask this often, ask it in response to people asking you “what do you do?”
+- "Who is the most talented person/people you know [for X job] that I should hire?" ask this often, ask it in response to people asking you "what do you do?"
 - ^ use answers to this question to build your own source list of people
 - Internally asking this question is a great starting point - who knows what you need more than the A players you already have?
 - Deputize people external/internal to go on the A search for you; can offer cash rewards or other monetary incentives
 - Bring outside recruiters inside so they can better understand what you need
 - Sourcing systems: spreadsheets, index cards, and dedicating time (30 mins a week) to nurturing, calling, prioritizing, and updating your the leads
-- Example calls: “X recommended I talk to you. We are looking for great Y talent and I’d love the chance to know you and learn about your career interests”
+- Example calls: "X recommended I talk to you. We are looking for great Y talent and I’d love the chance to know you and learn about your career interests"
 - If you get external recruiters take time to make sure your on the same page, go over your scorecards and hold them accountable to the items on it (make sure the grade leads based on it)
 - Action item: create a list of the 10 most talented people you know and start asking the questions!
 
@@ -85,22 +85,22 @@ My Notes
 
 ### The Screening Interview
 
-- “Im going to spend the first 20 minutes asking some questions and getting to know you, after that you can spend the next 10-20 minutes asking me questions to get to know us. How’s that sound?”
+- "Im going to spend the first 20 minutes asking some questions and getting to know you, after that you can spend the next 10-20 minutes asking me questions to get to know us. How’s that sound?"
 - 4 key questions: (1) what are your career goals (2) what are you really good at professionally (3) what are you not so good at or not interested in professionally (4) who were your last 5 bosses and how would they rate you on a 1-10 scale
 - What are your career goals? This tells you alignment and helps you weed out people that ultimately don’t want to do something like the job your hiring
 - What are you good at? Have them to tell you 8-12 examples; if they say decisive, then ask them to give you examples that reflect that
-- What are you not good at? This is more revealing than “your weaknesses”; push them for a real weakness, if you don’t feel like you’re getting one tell them in the next stage of interview we’d reach out to your references what might they tell us a weakness is?
+- What are you not good at? This is more revealing than "your weaknesses"; push them for a real weakness, if you don’t feel like you’re getting one tell them in the next stage of interview we’d reach out to your references what might they tell us a weakness is?
 - Who were your last 5 bosses and how would they rate you on a 1-10 scale? Here, candidates don’t feel like they can lie if they think you’re going to call the references in next stage; weed out anything 6 and below; 7 is neutral; look for 8 and above
 - Check all answers against your scorecard
-- Use the “what? How? And tell me more?” (Getting curious method) to learn more about answers; many more variations of these questions
+- Use the "what? How? And tell me more?" (Getting curious method) to learn more about answers; many more variations of these questions
 - If you don’t like the answers you are hearing you can shorten the screen
-- Screen aggressively and hit “next” quickly — don’t want to waste resources on bad fits
+- Screen aggressively and hit "next" quickly — don’t want to waste resources on bad fits
 
 ### The Top-Grading Interview
 
 - top-grading interview: data-focused and observes patterns of behavior
 - Ask these questions for each of the jobs listed (max 3?):
-    - What were you hired to do? Hopefully reveals their “scorecard” from previous job
+    - What were you hired to do? Hopefully reveals their "scorecard" from previous job
     - What were you most proud of? You’ll get the real stories versus possibly embellished resume line items; these stories should correlate to outcomes/results
     - What were some low points during the job? Keep pushing until you hear the lows, people can be hesitant to share
     - Who were the people you worked with? Specifically your boss? What was their name and how do spell that? What was it like working with them? What would they say were your strengths and weaknesses?
@@ -118,7 +118,7 @@ My Notes
 
 ### The Focused Interview
 
-- this is your “odds increasing” interviews
+- this is your "odds increasing" interviews
 - Split the outcomes and competencies up into groups and have people interview over 2-3 of them each; interviews lasting about 45 mins
 - Things to consider
     - Write out the goals of these interviews - the purpose of this interview is to key-in on these kinds of outcomes and competencies, we want to be certain the candidate has these

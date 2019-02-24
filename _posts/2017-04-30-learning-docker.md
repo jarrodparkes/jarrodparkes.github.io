@@ -5,7 +5,7 @@ date:   2017-04-30 07:10:00-0600
 tags:   docker, server, linux
 ---
 
-Recently, I’ve been learning about Docker — and it’s great! I won’t go as far as full fanboy, but what it does for virtualizing lightweight Linux systems is really beneficial for development and deployment of applications that will eventually live in the cloud. I’ve also been using it for a pet project called “A-Z Programming”; hopefully, posts related to A-Z Programming will become norm on my blog, but I still have a few things to prepare before that becomes a reality. If you’ve never heard of Docker, here are few analogies and principles I’ve been using to keep its major components in my mind:
+Recently, I’ve been learning about Docker — and it’s great! I won’t go as far as full fanboy, but what it does for virtualizing lightweight Linux systems is really beneficial for development and deployment of applications that will eventually live in the cloud. I’ve also been using it for a pet project called "A-Z Programming"; hopefully, posts related to A-Z Programming will become norm on my blog, but I still have a few things to prepare before that becomes a reality. If you’ve never heard of Docker, here are few analogies and principles I’ve been using to keep its major components in my mind:
 
 1. A **Dockerfile** describes an **image**.
 2. *An **image** is like a template* for your ideal execution environment.

@@ -11,18 +11,18 @@ My Notes
 
 - "don't make me think".... that’s the key to usability
 - Eliminate questions people have to ask in order to use a site/app, the app should explain itself wherever possible
-- If it looks so complicated that somebody thinks to themselves, “I’m going to have to figure this thing out” you already know it’s too complex
-- We think people are looking at “great literature” or at least “product brochure” but reality is much more “billboard at 60 mph”
+- If it looks so complicated that somebody thinks to themselves, "I’m going to have to figure this thing out" you already know it’s too complex
+- We think people are looking at "great literature" or at least "product brochure" but reality is much more "billboard at 60 mph"
 - Users muddle through, rarely read, scan for what fits their need or objective
 - Make it simple so the users feel smart
 - number of button presses is an okay metric, but a better metric is that all button presses shouldn't require lots of thinking — they should make sense
 - Make all choices mindless, if not mindless then make instructions brief, timely, and unavoidable
-- Omit needless words (cut half, then cut half of that), remove “happy talk”
+- Omit needless words (cut half, then cut half of that), remove "happy talk"
 - When someone comes to your app/site, it’s like they walked into Lowe’s to buy a chainsaw — they may browse (using signs, or links/buttons on your site/app) or they may ask someone to direct them (a store clerk, or searching your app)
 - Unlike the physical world, in apps/web you often (1) have no sense of scale or how big an app/website is... have a seen everything? (2) no sense of direction (3) no sense of location
 - Navigational conventions are good because it gives people a sense of where they are and what’s available
 - If there is any possibility of confusion about the scope of a search, then spell it out and make sure it is clear
-- We should really look at search in other apps and see how it reinforces that what you see is the result of “you are in the dresses aisle” or “you are looking the clearance section”... our backend should support these kinds of queries that shoppers commonly have
+- We should really look at search in other apps and see how it reinforces that what you see is the result of "you are in the dresses aisle" or "you are looking the clearance section"... our backend should support these kinds of queries that shoppers commonly have
 - What I click should be what I get
 - Titles or purposes of screens should always be visible or extremely clear
 - if you are dropped on a random screen of the app, can you answer these questions well? This is especially important for deep links into the app
@@ -33,8 +33,8 @@ My Notes
     - Where am I in the scheme of things? Where is my current focus?
     - How can I search or reorient?
 - On the home/landing/App Store screens, a new user should have answers for (1) what is this? (2) what can I do here? (3) what do they have here? (4) why should I be here and not somewhere else? And!! (5) where do I start?
-- On the home page, a tagline (a value proposition) can be a great way to tell a user of the sites purpose “sell your products on social, mobile, and web”
-- The antidote for “religious debates” about this color versus that color, or this kind of button versus that, etc is testing. The question shouldn’t be “do most people know to swipe to dismiss” instead it should be “does this swipe dismissal, on this screen, for this purpose, make sense to the users using our app?” And testing can reveal this
+- On the home page, a tagline (a value proposition) can be a great way to tell a user of the sites purpose "sell your products on social, mobile, and web"
+- The antidote for "religious debates" about this color versus that color, or this kind of button versus that, etc is testing. The question shouldn’t be "do most people know to swipe to dismiss" instead it should be "does this swipe dismissal, on this screen, for this purpose, make sense to the users using our app?" And testing can reveal this
 - User/usability test early and often
 - One morning a month for usability testing, same day every month, test 3 people and review results over lunch, maybe we could try this?
 - The purpose of user/usability testing isn’t to prove anything, it’s to identify and fix usability problems observed when watching people use your protect, save the big quantitative tests for a/b testing
