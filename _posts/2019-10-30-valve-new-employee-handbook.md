@@ -20,7 +20,7 @@ I had heard that Valve has a unique company structure called "Flatland". I searc
 - Flatland: Valve has no managers, none
 - Desk are on wheels, you decide what to work-on and with who
 - Any time you interview a potential hire, ask yourself not only if they’re talented or collaborative, but also if they’re capable of literally running this company, because they will be
-- Look for “T-shaped” people: that is, people who are both generalists (highly skilled at a broad set of valuable things—the top of the T) and also experts (among the best in their field within a narrow discipline—the vertical leg of the T)
+- Look for "T-shaped" people: that is, people who are both generalists (highly skilled at a broad set of valuable things—the top of the T) and also experts (among the best in their field within a narrow discipline—the vertical leg of the T)
 - An expert who is too narrow has difficulty collaborating
 - A generalist who doesn’t go deep enough in a single area ends up on the margins, not really contributing as an individual
 - When evaluating candidates, ask yourself

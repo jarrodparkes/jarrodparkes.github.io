@@ -5,7 +5,7 @@ date:   2020-02-05 19:20:00-0600
 tags:   review
 ---
 
-_“Thinking in Bets by Annie Duke_
+_"Thinking in Bets" by Annie Duke_
 
 ---
 
@@ -31,10 +31,10 @@ In light of this, we should "think in bets". That is, we should weigh outcome an
 - Try to take emotions and bias out of truth seeking
   - For example, in the past, US Supreme Court justices used to appoint several underlings on the other side of the political spectrum to hear their opposing view points so they could make a more sound ruling
 - Use the 10 minutes/10 days/10 years system for analyzing decision and outcome quality
-- Consider your past and future self when making decision (“night Jerry Sienfield making decisions to stay up, hurts morning Jerry productivity”)
+- Consider your past and future self when making decision ("night Jerry Sienfield making decisions to stay up, hurts morning Jerry productivity")
 - Ulyssess contract: To prevent yourself from doing something you don’t want, you agree to a contract that will prevent you from doing that thing (ex: tie my arm behind my back so that I cannot try to scratch my face wound even when it itches)
 - Scenario planning: Think about all possible futures, the probability that they will happen, and then take the best option
 - What is better than scenario planning (future forecasting) is working backwards: think of the best possible future and walk it backwards to determine what would have to happen for that future to occur (ex: I know when our app is launched, we’ll need to be able to quickly adjust user flows, and swap-in new screens, so if that app was already here right now, then how is it built such that it enables that level of flexibility
-- Combine back-casting (positive futures) with pre-mortems (negative futures; pre-mortems task us with looking at a bad outcome and determining “how we get here”
-  - When you do both, you more accurately represent all the possible futures and consider factors often overlooked when you only consider the “happy path”
+- Combine back-casting (positive futures) with pre-mortems (negative futures; pre-mortems task us with looking at a bad outcome and determining "how we get here"
+  - When you do both, you more accurately represent all the possible futures and consider factors often overlooked when you only consider the "happy path"
 - The future is always uncertain. Accept it. Calculate the odds. Consider the unbiased facts. Make a bet. Then rinse and repeat without seeing your past (the wins and losses) through a biased lens. As long as you keep making the best bets, that’s all you could hope for in a world of uncertainty.

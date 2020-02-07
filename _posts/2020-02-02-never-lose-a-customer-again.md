@@ -1,11 +1,11 @@
 ---
 layout: review
 title:  Never Lose a Customer Again
-date:   2020-02-06 19:00:00-0600
+date:   2020-02-05 19:00:00-0600
 tags:   review
 ---
 
-_“Never Lose a Customer Again” by Joey Coleman_
+_"Never Lose a Customer Again" by Joey Coleman_
 
 ---
 
@@ -83,7 +83,7 @@ _“Never Lose a Customer Again” by Joey Coleman_
 
 - Admit starts the moment the customer signs on the dotted line or clicks the pay button which is followed by customer excitement for finding the solution
 - Most companies miss a golden opportunity to share in the excitement with the customer (and not because you just made money, but because you are generally excited that they are excited and looking forward to working with them)
-- A physical memento of the partnership with a new customer that get shared and celebrated publicly can create “fear of missing out” (FOMO) with others
+- A physical memento of the partnership with a new customer that get shared and celebrated publicly can create "fear of missing out" (FOMO) with others
 - Get creative for making those first moments after the purchase exciting, fun, and personalized — take a note from the company who sends a personalized custom welcome video (that only takes them 1 minute to produce); did I mention the click through rate is 5x greater than most industry standards!
 - The sooner you can build a relationship between your new and former customers the better — they’ll be stronger and know they joined a group of likeminded people
 - Don’t go overboard — especially this early in the relationship — it’d be like taking a first date on a foreign trip... it would be too much too soon; make sure to match the customers level of excitement and then save some more enthusiasm for later in the journey
@@ -92,7 +92,7 @@ _“Never Lose a Customer Again” by Joey Coleman_
 ## Chapter 10 (Affirm)
 
 - Once someone makes a buying decision, it is paramount to reaffirm their purchase
-- Handing off a customer from sales person to AM must be done with care, affirmation, and transparency; otherwise, it is like courting someone to marriage and then on the honeymoon you quickly say “here’s Bob, have fun, and then you leave to chase someone else”
+- Handing off a customer from sales person to AM must be done with care, affirmation, and transparency; otherwise, it is like courting someone to marriage and then on the honeymoon you quickly say "here’s Bob, have fun, and then you leave to chase someone else"
 - Buyer’s remorse is super common and you need to actively battle against it by affirming the customer’s purchase; prepare a plan for this, have answers/tactics ready to respond, and make sure the customer is able to share their doubts
 - Make the required... remarkable
 - There is buyers remorse, but there is also this same remorse and doubt when using something new or unfamiliar — overcome this
@@ -126,25 +126,25 @@ _“Never Lose a Customer Again” by Joey Coleman_
 
 ## Chapter 14 (Adopt)
 
-- In this phase the customer “adopts” the company and takes a personal responsibility (makes a decision) to continue their use of its services and products; these are the “VIP customers”
+- In this phase the customer "adopts" the company and takes a personal responsibility (makes a decision) to continue their use of its services and products; these are the "VIP customers"
 - When someone adopts your company, incentivize that relationship; reward them
 - Learn about the 1% of your users; find ways to give personalized attention to them, and by doing so, create long-lasting personal and business relationships
 
 ## Chapter 15 (Advocate)
 
 - Mobilize your best customers
-- Don’t ask for advocacy too early (ex: right after a sale with a completely new customer), this is unlikely to result in new customers and is really counterproductive; the customer probably doesn’t know the value of your product yet and it sends the signal that you care more about “users at all costs” than the actual user
-- Dropbox’s referral program was super successful — when users exceeded their free 2GB of memory, they received an email showing them options for how to purchase 10, 50, and 100GB increments, AND at the bottom of the email customers saw an option to “refer someone and get 500MB for each referral”; this was powerful because at the time of asking, the user knew the value, achieved some success with the product, and was ready to make a decision that didn’t feel like overly manufactured or dirty
+- Don’t ask for advocacy too early (ex: right after a sale with a completely new customer), this is unlikely to result in new customers and is really counterproductive; the customer probably doesn’t know the value of your product yet and it sends the signal that you care more about "users at all costs" than the actual user
+- Dropbox’s referral program was super successful — when users exceeded their free 2GB of memory, they received an email showing them options for how to purchase 10, 50, and 100GB increments, AND at the bottom of the email customers saw an option to "refer someone and get 500MB for each referral"; this was powerful because at the time of asking, the user knew the value, achieved some success with the product, and was ready to make a decision that didn’t feel like overly manufactured or dirty
 - Choose the right referral — one that excites your current customer; referrals that don’t excite won’t happen
 
 ## Chapter 16
 
 - This chapter starts discussing how to get started with the phases (investigate, observe, personalize, and surprise)
-- “Get interested in others” instead of trying “to get others to be interested in you”; be a keen OBSERVER!
+- "Get interested in others" instead of trying "to get others to be interested in you"; be a keen OBSERVER!
 - Learn and use people’s names, it is the one of the sweetest sounding words to anyone, regardless of language
 - Pick a CRM and actually use it; capture meaningful data that WILL BE used for those special interactions
 - Back fill data in the CRM where you can; lots of public information out there than can you give you better lead on how to personalize that customers experience
-- If you’re going to use personal information to craft meaningful experiences, do it genuinely and without compromising trust (i.e. “my creepy, sneaky algorithm found this” versus “we had a conversation and I paid attention”)
+- If you’re going to use personal information to craft meaningful experiences, do it genuinely and without compromising trust (i.e. "my creepy, sneaky algorithm found this" versus "we had a conversation and I paid attention")
 - If you haven’t observed what your customers experience is in more than a month, you need to!
 - Gifts SHOULD NOT have your logo on it
 - Think of gifts that keep on giving, and give gifts when no one else is (not during the holidays)

@@ -27,7 +27,7 @@ _"The Power of Habit: Why We Do What We Do in Life and Business" by Charles Duhi
 - most of our actions are compelled by habit, not by original thought
 - habits can be reprogrammed
 - by habit, we are capable of some amazingly complex interactions; interactions that happen subconsciously without us even thinking
-- once we internalize something we’ve learned, our brains become nearly automatic in recall and processing for that thing; to keep learning requires us to keep “stretching ourselves” and our mental muscles farther and farther
+- once we internalize something we’ve learned, our brains become nearly automatic in recall and processing for that thing; to keep learning requires us to keep "stretching ourselves" and our mental muscles farther and farther
 - the habit loop: cue, routine, award
 - our habits never really go away and our brains cannot dictate bad versus good habits; thus, from what I can tel, if a habit is strong enough it can overtake us, despite our conscious thought and convictions about whether we should do it or not
 - habits can emerge without our permission, without us consciously thinking about them
@@ -37,8 +37,8 @@ _"The Power of Habit: Why We Do What We Do in Life and Business" by Charles Duhi
 
 - the craving/cue is what powers/triggers the habit loop, to get the reward
 - Pepsodent became an everyday tooth cleaning product because Hopkins found a simple cue (tooth film) and clearly presented the reward (a beautiful smile, no more tooth film)
-- in marketing and advertisement, you are looking for universal/simple/obvious cues to reach the largest audiences  (“everyone has tooth film”)
-- “a cue becomes a craving”: for a habit to truly form, the cue, which originally preceded the reward and was associated with something like tooth film (Pepsodent) or finishing cleaning (Febreeze), must become a neurological craving (a clean smile or a nice smell after cleaning) — you anticipate and crave the reward
+- in marketing and advertisement, you are looking for universal/simple/obvious cues to reach the largest audiences  ("everyone has tooth film")
+- "a cue becomes a craving": for a habit to truly form, the cue, which originally preceded the reward and was associated with something like tooth film (Pepsodent) or finishing cleaning (Febreeze), must become a neurological craving (a clean smile or a nice smell after cleaning) — you anticipate and crave the reward
 - to make a habit loop stick, you must find the cue/routine/reward and the reward must be strong enough to create a craving
 - the reason Pepsodent worked where others failed is the citric acid which caused a clean sensation in the mouth that people craved; the same is true of suds in soap — it’s doesn’t make the soap work any better, but people crave the bubbles!
 
@@ -81,14 +81,14 @@ _"The Power of Habit: Why We Do What We Do in Life and Business" by Charles Duhi
 
 - Major life change is a key component of habit (and buying pattern) change; examples of this would be getting married, moving, having a child, starting a new job
 - Big data has been crucial to helping organizations identify habits/trends (ex: Target and buying patterns, radio and listening trends)
-- “Dressing something new in old clothes” aka “know the cue, change the routine” aka “make the unfamiliar, familiar”
+- "Dressing something new in old clothes" aka "know the cue, change the routine" aka "make the unfamiliar, familiar"
 
 ## Saddleback Church and Montgomery Bus Boycott
 
 - 3 part social movements: starts with friendship, grows through community, leaders empower followers with habits/ownership
 - When Rosa Parks got arrested it meant something because of who she was in the Montgomery community
 - Parks transcended the social stratification that most people are in (we hang with people like ourselves)
-- The power of “weak ties” (friends of friends) is what allows small movements to grow huge; and it can increase the sense of obligatory peer pressure so that you don’t let down the expectations of those in your close and nearby networks
+- The power of "weak ties" (friends of friends) is what allows small movements to grow huge; and it can increase the sense of obligatory peer pressure so that you don’t let down the expectations of those in your close and nearby networks
 - To create change, or help to teach someone, bridge the known to the unknown; wrap the new thing in something that is relatable
 - The final element of creating social change is that participants must be given new habits that can self-propel them; something that provides a guide for acting despite setback or difficulty; for the civil rights movement, these were the self-propelling habits of peaceful protest and Christian forgiveness of enemies that gave those within the movement a reason to keep going
 

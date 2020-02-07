@@ -21,29 +21,29 @@ _"Loonshots" by Safi Bahcall_
 ## Introduction
 
 - By applying the science of phase transitions (ice to water) to teams you can nurture the crazy, transformative ideas
-- Awesome quote on how to win a Nobel Prize: “I know what to ignore.”
+- Awesome quote on how to win a Nobel Prize: "I know what to ignore."
 - Bahcall talks about looking at the structure (instead of culture) of companies, teams, etc as the reason for loonshot success or failure
 - Nokia went from being the mobile darlings (touting culture as its key to success) to rejecting the idea for a smart phone 3 years before Apple unveiled its smart phone and left them in the dust
 - Why do teams go from being spectacular to under performers? Phase change!
-- If entropy and order are the two forces competing against each other in phase change (high entropy... water, low entropy... ice), then stake and “perks of rank” are loosely the forces associated with phase change in teams
+- If entropy and order are the two forces competing against each other in phase change (high entropy... water, low entropy... ice), then stake and "perks of rank" are loosely the forces associated with phase change in teams
 - For example, when the stakes are high and the perks are low, risk is essential to survive.  But once perks get better, risk aversion sets in. The team acts differently because the forces at play have caused a complete phase transitions in terms of how the team acts
 
 ## Chapter 1 (How Loonshots Won a War)
 
-- Radar experiment for detection of ships and planes ignored for years... SMH, why? The military was in the “franchise phase”, producing more of the same, and didn’t want to hear from scientists and engineers — they only spoke in terms of bayonets and rifles
-- Bush, the focus at the beginning at Part 1, determined that the best way to make military/tech loonshots possible was to create a separate team which could operate in “loonshot phase” while the military operated in “franchise phase”; the two teams could operate in tandem like water/ice exists in dynamic equilibrium at 32 degrees
-- The best scenario, like the one which benefited Bell Labs, is having a team in “loonshot phase” operating, but not overtaking, a team in “franchise phase” and vice versa
+- Radar experiment for detection of ships and planes ignored for years... SMH, why? The military was in the "franchise phase", producing more of the same, and didn’t want to hear from scientists and engineers — they only spoke in terms of bayonets and rifles
+- Bush, the focus at the beginning at Part 1, determined that the best way to make military/tech loonshots possible was to create a separate team which could operate in "loonshot phase" while the military operated in "franchise phase"; the two teams could operate in tandem like water/ice exists in dynamic equilibrium at 32 degrees
+- The best scenario, like the one which benefited Bell Labs, is having a team in "loonshot phase" operating, but not overtaking, a team in "franchise phase" and vice versa
 - The rules... (1) separate the phases, aka the artists and soldiers; another way to phrase it is make sure you have a loonshot nursery where ideas can grow without being dismissed to early and that you tailor the tools to the needs (i.e. artists don’t the 6-sigma system for their creativity to flourish)
 - (2) love artists and soldiers equally
-- (3) manage the transfer of ideas/feedback, but not the technology itself; the touch and balance between the two phases/teams is crucial; it’s “the gardening” that makes the loonshot grow into their full potential
+- (3) manage the transfer of ideas/feedback, but not the technology itself; the touch and balance between the two phases/teams is crucial; it’s "the gardening" that makes the loonshot grow into their full potential
 
 ## Chapter 2 (Fragility of Loonshots)
 
 - Loonshots must be able to survive multiple deaths on their way to becoming successful
 - It is more often that loonshots have difficult, high-and-low journeys, than steady and the explosive growth and revisionist history may lead you to believe
-- Many of the fails encountered by moonshots are “false fails”... as in, the idea didn’t really fail, but it encountered something that gave the impression that the idea was a failure
-- To overcome the “false fails” you need someone who can champion the idea through the deaths, someone who doesn’t stop believing in the idea; champions are bilingual in artist-speak and solider-speak
-- LSC: “Listening to the suck with curiosity” <— instead of just dismissing failure, try to understand why it happened; why isn’t it working; why is nobody buying it; why did it fail?
+- Many of the fails encountered by moonshots are "false fails"... as in, the idea didn’t really fail, but it encountered something that gave the impression that the idea was a failure
+- To overcome the "false fails" you need someone who can champion the idea through the deaths, someone who doesn’t stop believing in the idea; champions are bilingual in artist-speak and solider-speak
+- LSC: "Listening to the suck with curiosity" <— instead of just dismissing failure, try to understand why it happened; why isn’t it working; why is nobody buying it; why did it fail?
 
 ## Chapter 3 (Two Types of Loonshots)
 
@@ -57,19 +57,19 @@ _"Loonshots" by Safi Bahcall_
         - Ex: Walmart, Facebook (social network), Google (search engine, it was one of like 18), American Airlines reservation system
 - Great innovators learn how to be good at both types of loonshots
 - If you only look at one type of loonshot, you can be blindsided by the other type like Pan Am missed S-type innovations and regulations that ultimately caused its demise
-- If you keep following P-type loonshots, and begin ignoring the strategy, merit, or the communication between franchise phase (and/or S-type innovation) you can fall into the “Moses trap” a complex that ultimately creates the blind spot that weakened companies like Pan Am, IBM, and Polaroid
+- If you keep following P-type loonshots, and begin ignoring the strategy, merit, or the communication between franchise phase (and/or S-type innovation) you can fall into the "Moses trap" a complex that ultimately creates the blind spot that weakened companies like Pan Am, IBM, and Polaroid
 
 ## Chapter 4 (The Moses Trap)
 
-- “Moses trap” when ideas advance only at the pleasure of a holy leader who acts for love of loonshots instead of judging ideas on merit and strategy
-- With the “Moses trap” the leaders get a complex where they only listen to their ideas and the lose the dynamic equilibrium that needs to exist between the types of loonshots and the franchise/loonshot phases
+- "Moses trap" when ideas advance only at the pleasure of a holy leader who acts for love of loonshots instead of judging ideas on merit and strategy
+- With the "Moses trap" the leaders get a complex where they only listen to their ideas and the lose the dynamic equilibrium that needs to exist between the types of loonshots and the franchise/loonshot phases
 - You must have PHASE SEPARATION and DYNAMIC EQUILIBRIUM
 
 ## Chapter 5 (Escaping the Moses Trap)
 
 - At NEXT, Steve Jobs did the same thing Polaroid did with NEXT computer... he built a loonshot-esk computer that nobody bought and brought NEXT to its demise
-- Early in his career, Steve Jobs did not do a good job of balancing power and respect between the artists and soldiers — he called Macintosh workers “artists” and Apple II workers “bozos”
-- The key to overcoming the “Moses trap” is “system mindset” over “outcome mindset”
+- Early in his career, Steve Jobs did not do a good job of balancing power and respect between the artists and soldiers — he called Macintosh workers "artists" and Apple II workers "bozos"
+- The key to overcoming the "Moses trap" is "system mindset" over "outcome mindset"
 - With system mindset you are asking not just why something happened, but what lead you to make the decision that resulted in that thing happening? What were the conditions involved in making the decision? What was the state of mind leading up to the decision? Etc
 - Outcome mindset stops short of system mindset and simply asks why something happened
 - You look at quality of decisions, not just quality of outcomes
