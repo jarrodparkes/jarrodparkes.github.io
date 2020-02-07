@@ -1,7 +1,7 @@
 ---
 layout: review
 title:  How Google Works
-date:   2019-01-03 06:00:00
+date:   2019-01-03 
 tags:   review
 ---
 

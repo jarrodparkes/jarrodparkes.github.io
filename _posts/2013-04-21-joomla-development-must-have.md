@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Joomla! Development Book
-date: 2013-04-21 04:17:18
+date: 2013-04-21 
 tags: web
 ---
 

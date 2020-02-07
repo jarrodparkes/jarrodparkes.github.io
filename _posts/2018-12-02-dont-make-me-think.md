@@ -1,7 +1,7 @@
 ---
 layout: review
 title:  Don't Make Me Think
-date:   2018-12-02 06:00:00
+date:   2018-12-02 
 tags:   review
 ---
 

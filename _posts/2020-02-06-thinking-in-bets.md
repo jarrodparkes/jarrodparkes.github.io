@@ -1,7 +1,7 @@
 ---
 layout: review
 title:  Thinking in Bets
-date:   2020-02-06 19:20:00
+date:   2020-02-06
 tags:   review
 ---
 

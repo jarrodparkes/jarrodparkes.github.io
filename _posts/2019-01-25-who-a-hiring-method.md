@@ -1,7 +1,7 @@
 ---
 layout: review
 title:  Who - The A Method of Hiring
-date:   2019-01-25 06:00:00
+date:   2019-01-25 
 tags:   review
 ---
 

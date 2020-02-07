@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Introduction to iOS Dev
-date: 2015-09-07 16:24:36
+date: 2015-09-07 
 tags: ios
 ---
 

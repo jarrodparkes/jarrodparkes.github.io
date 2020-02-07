@@ -1,7 +1,7 @@
 ---
 layout: review
 title:  Atomic Habits
-date:   2019-01-28 07:10:00
+date:   2019-01-28 
 tags:   review
 ---
 

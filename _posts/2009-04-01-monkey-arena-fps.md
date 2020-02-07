@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Monkey Arena FPS
-date: 2009-04-01 14:57:26
+date: 2009-04-01 
 tags: unity3d
 ---
 

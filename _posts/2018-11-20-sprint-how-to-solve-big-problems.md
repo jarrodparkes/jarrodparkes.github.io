@@ -1,7 +1,7 @@
 ---
 layout: review
 title:  Sprint - How to Solve Big Problems
-date:   2018-11-20 06:00:00
+date:   2018-11-20 
 tags:   review
 ---
 

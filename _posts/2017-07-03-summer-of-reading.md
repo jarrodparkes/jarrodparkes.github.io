@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Summer of Reading
-date:   2017-07-03 05:39:00
+date:   2017-07-03 
 tags:   reading, motivation
 ---
 

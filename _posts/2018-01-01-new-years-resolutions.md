@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  2018 New Year's Resolutions
-date:   2018-01-01 06:00:00
+date:   2018-01-01 
 tags:   development
 ---
 

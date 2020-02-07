@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  From Kyoto to Osaka
-date:   2019-03-13 07:00:00
+date:   2019-03-13 
 tags:   travel
 ---
 

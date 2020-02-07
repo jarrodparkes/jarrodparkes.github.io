@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Heading to Japan
-date:   2019-03-05 07:42:00
+date:   2019-03-05 
 tags:   travel
 ---
 

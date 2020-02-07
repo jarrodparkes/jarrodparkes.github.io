@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Katie in Cali - Day 9, 10, and 11
-date: 2015-04-01 21:25:42
+date: 2015-04-01 
 tags: travel
 ---
 

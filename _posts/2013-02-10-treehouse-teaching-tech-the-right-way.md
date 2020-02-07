@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tech "The Right Way"
-date: 2013-02-10 21:47:57
+date: 2013-02-10 
 tags: learning
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Virtual Science LAB Models
-date: 2008-07-01 09:18:22
+date: 2008-07-01 
 tags: modeling
 ---
 

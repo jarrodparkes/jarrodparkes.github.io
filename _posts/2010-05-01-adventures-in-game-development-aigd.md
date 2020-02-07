@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Adventures in Game Dev
-date: 2010-05-01 07:43:42
+date: 2010-05-01 
 tags: gamedev
 ---
 

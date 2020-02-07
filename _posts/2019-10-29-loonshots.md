@@ -1,7 +1,7 @@
 ---
 layout: review
 title:  Loonshots
-date:   2019-10-29 08:42:00
+date:   2019-10-29 
 tags:   review
 ---
 

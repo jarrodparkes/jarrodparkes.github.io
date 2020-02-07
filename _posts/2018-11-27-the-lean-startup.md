@@ -1,7 +1,7 @@
 ---
 layout: review
 title:  The Lean Startup
-date:   2018-11-27 06:00:00
+date:   2018-11-27 
 tags:   review
 ---
 

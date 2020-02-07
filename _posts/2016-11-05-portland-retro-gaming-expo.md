@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Portland Retro Gaming Expo
-date:   2016-11-05 11:37:00
+date:   2016-11-05 
 tags:	gaming
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Data Representation
-date: 2013-12-13 15:28:11
+date: 2013-12-13 
 tags: dev
 ---
 

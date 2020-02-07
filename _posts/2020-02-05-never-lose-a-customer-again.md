@@ -1,7 +1,7 @@
 ---
 layout: review
 title:  Never Lose a Customer Again
-date:   2020-02-05 15:00:00
+date:   2020-02-05
 tags:   review
 ---
 

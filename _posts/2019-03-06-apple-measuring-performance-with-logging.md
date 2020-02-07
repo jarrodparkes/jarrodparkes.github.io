@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Measuring App Performance with Logging
-date:   2019-03-06 19:15:00
+date:   2019-03-06 
 tags:   ios
 ---
 

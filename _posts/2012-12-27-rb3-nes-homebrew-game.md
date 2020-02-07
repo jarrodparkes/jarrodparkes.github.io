@@ -1,7 +1,7 @@
 ---
 layout: post
 title: RB3 NES Homebrew Game
-date: 2012-12-27 18:50:34
+date: 2012-12-27 
 tags: nes
 ---
 

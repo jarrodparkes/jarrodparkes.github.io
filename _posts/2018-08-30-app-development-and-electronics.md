@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  App Development and Electronics
-date:   2018-08-30 06:00:00
+date:   2018-08-30 
 tags:   development
 ---
 

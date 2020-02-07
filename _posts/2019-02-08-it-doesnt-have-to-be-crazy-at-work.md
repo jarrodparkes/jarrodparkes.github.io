@@ -1,7 +1,7 @@
 ---
 layout: review
 title:  It Doesn’t Have to Be Crazy at Work
-date:   2019-02-08 07:30:00
+date:   2019-02-08 
 tags:   review
 ---
 

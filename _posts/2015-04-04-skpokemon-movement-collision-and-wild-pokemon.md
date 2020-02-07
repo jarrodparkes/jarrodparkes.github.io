@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SKPokemon Improvements
-date: 2015-04-04 20:56:13
+date: 2015-04-04 
 tags: ios
 ---
 

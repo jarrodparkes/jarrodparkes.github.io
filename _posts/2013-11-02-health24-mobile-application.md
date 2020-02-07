@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Health24 Mobile Application
-date: 2013-11-02 11:28:54
+date: 2013-11-02 
 tags: ios
 ---
 

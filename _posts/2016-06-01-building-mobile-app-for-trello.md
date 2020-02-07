@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Building Mobile App for Trello
-date:   2016-06-01 10:30:00
+date:   2016-06-01 
 tags:	ios
 ---
 

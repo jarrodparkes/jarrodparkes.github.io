@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Playing with WatchKit
-date: 2015-04-19 17:50:42
+date: 2015-04-19 
 tags: watchos
 ---
 

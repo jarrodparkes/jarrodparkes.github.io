@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Analytics on WordPress Site
-date: 2013-01-17 14:29:27
+date: 2013-01-17 
 tags: web
 ---
 

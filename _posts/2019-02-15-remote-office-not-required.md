@@ -1,7 +1,7 @@
 ---
 layout: review
 title:  Remote - Office Not Required
-date:   2019-02-15 15:15:00
+date:   2019-02-15 
 tags:   review
 ---
 

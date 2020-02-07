@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Katie in Cali – Day 3
-date: 2015-03-24 12:03:45
+date: 2015-03-24 
 tags: travel
 ---
 

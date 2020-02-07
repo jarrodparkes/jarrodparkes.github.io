@@ -1,7 +1,7 @@
 ---
 layout: post
 title: NES Assembly Curriculum
-date: 2013-04-21 05:09:09
+date: 2013-04-21 
 tags: nes
 ---
 

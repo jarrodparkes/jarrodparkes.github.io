@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Zomblings AI Prototype
-date: 2009-11-01 08:04:17
+date: 2009-11-01 
 tags: unity3d
 ---
 
