@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Starting C64 Development
-date:   2018-11-02 18:00:00-0600
+date:   2018-11-02 18:00:00
 tags:   development
 ---
 

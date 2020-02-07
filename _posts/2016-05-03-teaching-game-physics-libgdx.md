@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Game Physics with Box2D and libGDX
-date:   2016-05-03 10:00:30-0600
+date:   2016-05-03 10:00:30
 tags:	libgdx
 ---
 

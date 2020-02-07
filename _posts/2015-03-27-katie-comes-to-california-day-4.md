@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Katie in Cali - Day 4
-date: 2015-03-27 00:16:09-0600
+date: 2015-03-27 00:16:09
 tags: travel
 ---
 

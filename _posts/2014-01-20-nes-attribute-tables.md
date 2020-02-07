@@ -1,7 +1,7 @@
 ---
 layout: post
 title: NES Attribute Tables
-date: 2014-01-20 13:11:03-0600
+date: 2014-01-20 13:11:03
 tags: nes
 ---
 

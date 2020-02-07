@@ -1,7 +1,7 @@
 ---
 layout: review
 title:  The Everything Store
-date:   2019-02-23 19:19:00-0600
+date:   2019-02-23 19:19:00
 tags:   review
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: review
 title:  High Growth Handbook
-date:   2019-01-15 06:00:00-0600
+date:   2019-01-15 06:00:00
 tags:   review
 ---
 

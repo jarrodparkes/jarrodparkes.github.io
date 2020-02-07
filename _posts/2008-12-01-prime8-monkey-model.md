@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Prime8 Monkey Model
-date: 2008-12-01 11:46:45-0600
+date: 2008-12-01 11:46:45
 tags: modeling
 ---
 

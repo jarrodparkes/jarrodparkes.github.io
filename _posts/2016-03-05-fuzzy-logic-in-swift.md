@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Fuzzy Logic in Swift
-date:   2016-03-05 14:21:30-0600
+date:   2016-03-05 14:21:30
 tags:
 ---
 

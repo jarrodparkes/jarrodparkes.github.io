@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Alpha Tau Omega Mobile
-date: 2011-12-28 11:47:11-0600
+date: 2011-12-28 11:47:11
 tags: ios
 ---
 

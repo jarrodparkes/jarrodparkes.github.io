@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Courtyard Unreal Level
-date: 2008-06-01 07:17:44-0600
+date: 2008-06-01 07:17:44
 tags: unreal
 ---
 

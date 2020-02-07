@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Prime8 Weapon Models
-date: 2009-10-01 12:03:56-0600
+date: 2009-10-01 12:03:56
 tags: modeling
 ---
 

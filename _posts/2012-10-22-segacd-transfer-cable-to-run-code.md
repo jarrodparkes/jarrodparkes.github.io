@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SegaCD Transfer Cable
-date: 2012-10-22 02:20:52-0600
+date: 2012-10-22 02:20:52
 tags: genesis
 ---
 

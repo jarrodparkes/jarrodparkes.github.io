@@ -1,7 +1,7 @@
 ---
 layout: review
 title:  Measure What Matters
-date:   2018-08-04 06:00:00-0600
+date:   2018-08-04 06:00:00
 tags:   review
 ---
 

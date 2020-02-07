@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Get on the Stage
-date:   2015-11-01 09:00:00-0600
+date:   2015-11-01 09:00:00
 tags: 	swift
 ---
 

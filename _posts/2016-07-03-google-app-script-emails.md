@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Google App Script Emails
-date:   2016-07-03 11:36:00-0600
+date:   2016-07-03 11:36:00
 tags:	google
 ---
 

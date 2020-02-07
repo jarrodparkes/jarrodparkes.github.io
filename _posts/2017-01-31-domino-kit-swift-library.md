@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  DominoKit Swift Library
-date:   2017-01-31 11:37:00-0600
+date:   2017-01-31 11:37:00
 tags:   swift
 ---
 

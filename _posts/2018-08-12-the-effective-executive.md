@@ -1,7 +1,7 @@
 ---
 layout: review
 title:  The Effective Executive
-date:   2018-08-12 06:00:00-0600
+date:   2018-08-12 06:00:00
 tags:   review
 ---
 

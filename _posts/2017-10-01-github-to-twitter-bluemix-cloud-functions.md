@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  GitHub Push to Tweet
-date:   2017-10-01 14:08:00-0600
+date:   2017-10-01 14:08:00
 tags:   swift, serverless, bluemix, javascript, github, twitter
 ---
 

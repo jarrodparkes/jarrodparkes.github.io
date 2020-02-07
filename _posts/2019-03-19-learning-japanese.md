@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Learning Japanese
-date:   2019-03-19 07:00:00-0600
+date:   2019-03-19 07:00:00
 tags:   travel
 ---
 

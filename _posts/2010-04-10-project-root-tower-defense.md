@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Project Root Tower Defense
-date: 2010-04-10 05:22:05-0600
+date: 2010-04-10 05:22:05
 tags: unity3d
 ---
 

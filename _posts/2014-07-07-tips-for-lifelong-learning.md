@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tips for Lifelong Learning
-date: 2014-07-07 08:50:04-0600
+date: 2014-07-07 08:50:04
 tags: learning
 ---
 

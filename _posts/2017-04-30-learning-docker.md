@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Learning Docker
-date:   2017-04-30 07:10:00-0600
+date:   2017-04-30 07:10:00
 tags:   docker, server, linux
 ---
 

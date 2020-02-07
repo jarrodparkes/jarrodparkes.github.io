@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SpriteKit Pokemon Clone
-date: 2015-04-02 22:53:12-0600
+date: 2015-04-02 22:53:12
 tags: ios
 ---
 

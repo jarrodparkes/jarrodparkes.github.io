@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  iOS System Logging
-date:   2019-02-06 10:00:00-0600
+date:   2019-02-06 10:00:00
 tags:   ios
 ---
 

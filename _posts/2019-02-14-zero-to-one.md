@@ -1,7 +1,7 @@
 ---
 layout: review
 title:  Zero to One
-date:   2019-02-14 10:00:00-0600
+date:   2019-02-14 10:00:00
 tags:   review
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: review
 title:  The Power of Habit
-date:   2019-09-21 13:10:00-0600
+date:   2019-09-21 13:10:00
 tags:   review
 ---
 

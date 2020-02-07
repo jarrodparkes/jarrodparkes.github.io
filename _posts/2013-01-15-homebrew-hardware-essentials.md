@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Homebrew Hardware Essentials
-date: 2013-01-15 15:23:00-0600
+date: 2013-01-15 15:23:00
 tags: gamedev
 ---
 

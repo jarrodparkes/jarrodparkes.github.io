@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Making a Network Request
-date:   2015-11-02 19:17:58-0600
+date:   2015-11-02 19:17:58
 tags:   swift
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Layout Variance and Traits
-date:   2016-09-30 06:32:00-0600
+date:   2016-09-30 06:32:00
 tags:	ios
 ---
 

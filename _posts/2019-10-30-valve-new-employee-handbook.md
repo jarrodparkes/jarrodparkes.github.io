@@ -1,7 +1,7 @@
 ---
 layout: review
 title:  Valve - New Employee Handbook
-date:   2019-10-30 10:59:00-0600
+date:   2019-10-30 10:59:00
 tags:   review
 ---
 

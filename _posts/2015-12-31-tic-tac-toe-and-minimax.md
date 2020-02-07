@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Tic Tac Toe and Minimax
-date:   2015-12-31 10:00:30-0600
+date:   2015-12-31 10:00:30
 tags:   rss
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Starting at Spur and Gameboy Emulator
-date:   2019-02-19 08:00:00-0600
+date:   2019-02-19 08:00:00
 tags:   development
 ---
 

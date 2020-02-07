@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Sketch and InVision
-date:   2017-03-31 10:21:00-0600
+date:   2017-03-31 10:21:00
 tags:   graphics
 ---
 

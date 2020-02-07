@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Automation for CommentSold
-date:   2018-04-30 06:00:00-0600
+date:   2018-04-30 06:00:00
 tags:   development, scripting
 ---
 

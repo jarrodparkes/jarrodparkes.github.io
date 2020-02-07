@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Prime8 Kart Racing
-date: 2010-05-01 06:32:25-0600
+date: 2010-05-01 06:32:25
 tags: unity3d
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: HudsonAlpha Cell
-date: 2008-07-01 12:45:28-0600
+date: 2008-07-01 12:45:28
 tags: unreal
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Course Scheduling System
-date: 2013-12-02 22:17:14-0600
+date: 2013-12-02 22:17:14
 tags: dev
 ---
 

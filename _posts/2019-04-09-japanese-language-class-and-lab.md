@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Japanese Language Class and Lab
-date:   2019-04-09 06:42:00-0600
+date:   2019-04-09 06:42:00
 tags:   learning
 ---
 

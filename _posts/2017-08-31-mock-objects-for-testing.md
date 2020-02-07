@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Mock Objects for Testing
-date:   2017-08-30 07:03:00-0600
+date:   2017-08-30 07:03:00
 tags:   testing, swift
 ---
 

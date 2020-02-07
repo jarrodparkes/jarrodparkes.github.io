@@ -1,7 +1,7 @@
 ---
 layout: review
 title:  Powerful - Building a Culture of Freedom and Responsibility
-date:   2019-02-10 16:50:00-0600
+date:   2019-02-10 16:50:00
 tags:   review
 ---
 

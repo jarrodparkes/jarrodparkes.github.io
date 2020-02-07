@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Google App Script to Twitter
-date:   2017-07-31 07:03:00-0600
+date:   2017-07-31 07:03:00
 tags:   google, javascript, twitter
 ---
 

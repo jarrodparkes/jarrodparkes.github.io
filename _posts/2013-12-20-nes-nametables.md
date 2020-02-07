@@ -1,7 +1,7 @@
 ---
 layout: post
 title: NES Nametables
-date: 2013-12-20 13:21:47-0600
+date: 2013-12-20 13:21:47
 tags: nes
 ---
 

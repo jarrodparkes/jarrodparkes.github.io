@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Atari Party
-date:   2016-07-31 14:28:00-0600
+date:   2016-07-31 14:28:00
 tags:   atari, gaming
 ---
 

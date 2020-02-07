@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Piper Down Co-Op Prototype
-date: 2010-02-01 18:02:57-0600
+date: 2010-02-01 18:02:57
 tags: unity3d
 ---
 

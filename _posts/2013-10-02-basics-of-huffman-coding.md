@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Basics of Huffman Coding
-date: 2013-10-02 10:50:10-0600
+date: 2013-10-02 10:50:10
 tags: nes
 ---
 

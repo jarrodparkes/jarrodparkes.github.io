@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Adding RSS Support
-date:   2015-11-03 00:30:32-0600
+date:   2015-11-03 00:30:32
 tags:   rss
 ---
 

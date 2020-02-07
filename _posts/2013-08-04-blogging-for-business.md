@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Blogging for Business
-date: 2013-08-04 21:34:23-0600
+date: 2013-08-04 21:34:23
 tags: learning
 ---
 
