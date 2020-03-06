@@ -11,7 +11,7 @@ _"Insanely Simple" by Ken Segall_
 
 # My Summary
 
-When Apple was thriving is was because of its relentless focus on simplicity. This simplicity extended across all facets of the company (sales, product, distribution, etc), and it was championed by Steve Jobs.
+When Apple was thriving it was because of its relentless focus on simplicity. This simplicity extended across all facets of the company (sales, product, distribution, etc), and it was championed by Steve Jobs.
 
 You cannot partially adopt simplicity, it must pervade everything. If you need a simple way to remember this book... stay small and avoid doing what big companies do at all costs.
 
