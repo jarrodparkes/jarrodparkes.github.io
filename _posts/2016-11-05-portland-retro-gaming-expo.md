@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Portland Retro Gaming Expo
-date:   2016-11-05 
+date:   2016-11-05
 tags:	gaming
 ---
 
@@ -17,8 +17,8 @@ After some [Sizzle Pies](http://www.sizzlepie.pizza) and a quick rest, Saturday 
 
 I also stumbled upon RetroUSB's booth. For those who don't know, [RetroUSB](http://www.retrousb.com) is a company that produces new NES titles as well as development tools for consoles like the Genesis, Super Nintendo, and others. At the booth, they were selling their newest creation — the [AVS](http://www.retrousb.com/product_info.php?cPath=36&products_id=78). The AVS is a brand-new NES console that is HDMI-capable and can play original NES/Famicon games... all without using emulation! No boot or loading times!
 
-![avs-console]({{ site.url }}/images/avs-console.JPG "AVS Console")
+![avs-console]({{ site.url }}/images/avs-console.jpg "AVS Console")
 
 The last highlight of the weekend was meeting the ["8-Bit Heroes" team behind Mystic Searches](https://www.kickstarter.com/projects/1316851183/the-new-8-bit-heroes-new-nes-game-and-creation-doc). Mystic Searches is a new title for the NES that I kickstarted back in 2014, and they are finally approaching the finish line. Along with the game, they've created a wonderful documentary that tells the story of their journey from humble childhood sketches to a brand new NES cartridge. You can find more information about the film (and the trailer) on [their site](http://www.thenew8bitheroes.com)!
 
-![8-bit-heroes-team]({{ site.url }}/images/8-bit-heroes-team.JPG "8-Bit Heroes Team")
+![8-bit-heroes-team]({{ site.url }}/images/8-bit-heroes-team.jpg "8-Bit Heroes Team")
