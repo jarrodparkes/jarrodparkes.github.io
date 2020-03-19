@@ -5,13 +5,13 @@ date: 2013-04-21
 tags: web
 ---
 
-![joomla-programming-cover]({{ site.url }}/images/joomla-programming-cover.png "Joomla! Programming Book")
+![joomla-programming-cover](https://s3.us-east-2.amazonaws.com/jarrodparkes.com/joomla-programming-cover.png "Joomla! Programming Book")
 
 I always like to keep some good books on my shelf for reference or bathroom reads. Nearly all of my books are tech-related, but I do find myself surfing the web for a lot of my day-to-day reference needs. However, when it comes to the Joomla! CMS platform, I have found the online documentation to be a little lack luster. So, I purchased the book ["Joomla! Programming" by Mark Dexter and Louis Landry](http://www.amazon.com/dp/013278081X). So far, this is the best book I have found for learning Joomla! development.
 
 The Joomla! CMS is built using PHP, so experience with the language is assumed. Also, like many other web development platforms, Joomla! uses the Model View Controller design pattern or MVC. If there is any learning block for this book besides PHP experience, it would be knowing the basics of MVC design. If you have an understanding of MVC, then you should be fine.
 
-![joomla-mvc-basic-graph]({{ site.url }}/images/joomla-mvc-basic-graph.png "Joomla! MVC Basic Graph")
+![joomla-mvc-basic-graph](https://s3.us-east-2.amazonaws.com/jarrodparkes.com/joomla-mvc-basic-graph.png "Joomla! MVC Basic Graph")
 
 ## Outline
 

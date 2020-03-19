@@ -5,7 +5,7 @@ date: 2008-06-01
 tags: unreal
 ---
 
-![courtyard-cover]({{ site.url }}/images/courtyard-cover.png "Courtyard Unreal Level")
+![courtyard-cover](https://s3.us-east-2.amazonaws.com/jarrodparkes.com/courtyard-cover.png "Courtyard Unreal Level")
 
 The Courtyard is a level I built using the Unreal Engine 3 Toolkit. Originally, I planned to enter the Courtyard in the [2008 Old School Design Contest](http://www.ign.com/articles/2008/06/04/3d-buzz-announces-old-school-level-design-contest-for-unreal-tournament-3) hosted by [3D Buzz](http://www.3dbuzz.com/); however, halfway through the project I decided to just finish the level as a fun side project. Most of the applicants in the contest built their own models, but since I had no experience modeling, I was at a large disadvantage in creativity category. Nonetheless, I finished creating the Courtyard, and it is a fully playable level in Unreal Tournament 3.
 

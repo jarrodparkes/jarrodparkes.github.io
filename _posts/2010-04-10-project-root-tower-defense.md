@@ -5,7 +5,7 @@ date: 2010-04-10
 tags: unity3d
 ---
 
-![root-cover]({{ site.url }}/images/root-cover.png "Project Root Tower Defense")
+![root-cover](https://s3.us-east-2.amazonaws.com/jarrodparkes.com/root-cover.png "Project Root Tower Defense")
 
 Project Root is the second edition of [3JTD](https://jarrodparkes.com/portfolio/3jtd-tower-defense/). After going back to the drawing board, I decided to include new gameplay elements into the game. The new elements came from games like Viva Pinata and Age of Empires. I had always felt that those games did a good job in giving a single player control over a large environment. Plus, I also desperately wanted to upgrade the graphics from 3JTD.
 

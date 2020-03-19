@@ -5,7 +5,7 @@ date: 2014-07-07
 tags: learning
 ---
 
-![tips-for-lifelong-learning]({{ site.url }}/images/tips-for-lifelong-learning.png "Tips for Lifelong Learning")
+![tips-for-lifelong-learning](https://s3.us-east-2.amazonaws.com/jarrodparkes.com/tips-for-lifelong-learning.png "Tips for Lifelong Learning")
 
 Having just graduated from a 4-year college, my career has been pretty short in comparison to most. But, where my career is today and where it will be tomorrow is absolutely dependent on continued learning, or becoming a lifelong learner if you will. In today's fast-paced industry, learning will most likely involve seeking new skills in ways that challenge the norm. But thankfully, there is promise for such lifelong learning online--a promise that will save you time and money while helping you earn more of both.
 

@@ -5,7 +5,7 @@ date: 2011-12-28
 tags: ios
 ---
 
-![atom-cover]({{ site.url }}/images/atom-cover.png "Alpha Tau Omega Mobile (ATOM)")
+![atom-cover](https://s3.us-east-2.amazonaws.com/jarrodparkes.com/atom-cover.png "Alpha Tau Omega Mobile (ATOM)")
 
 Alpha Tau Omega Mobile, or "ATOM", was my first iPhone application. I designed the app for my chapter of ATO at the University of Alabama in Huntsville.
 

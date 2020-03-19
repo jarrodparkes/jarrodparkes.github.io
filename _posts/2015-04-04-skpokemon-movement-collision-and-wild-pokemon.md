@@ -11,7 +11,7 @@ I've come up with a name for this project... SKPokemon (using the SpriteKit nam
 
 SpriteKit uses instances of the **SKPhysicsBody** class for incorporating physics and collision detection. Like other games engines, you can create primitive physics bodies like squares and circles, or use something more complex like texture-based physics bodies—this is what I am currently using for the simple background/world. With the debugging properties of SKView enabled, you can see the outline of the scene's physics bodies.
 
-![skpokemon-1]({{ site.url }}/images/skpokemon-1.png "skpokemon-1")
+![skpokemon-1](https://s3.us-east-2.amazonaws.com/jarrodparkes.com/skpokemon-1.png "skpokemon-1")
 
 The blue lines are the bounds of the physics bodies. Although the full background consists of grass and trees, the texture-based collision isolates which parts (i.e. tall grass) should detect collisions.
 
@@ -33,4 +33,4 @@ For now, the only scene transitions in SKPokemon are between the world and battl
 
 As always, mandatory screenshots! If you are thinking the graphics look ripped, then you are right. Hackers be hackin'!
 
-![skpokemon-20150404-2]({{ site.url }}/images/skpokemon-2.png "skpokemon-20150404-2")
+![skpokemon-20150404-2](https://s3.us-east-2.amazonaws.com/jarrodparkes.com/skpokemon-2.png "skpokemon-20150404-2")

@@ -9,11 +9,11 @@ I was updating an iOS app at work, and I stumbled upon Xcode's feature for layou
 
 I'm going to walk through a simple example using a toy app I built called AnimalFriends. Here, are screenshots of the app in landscape and portrait mode.
 
-![animal-friends-screens]({{ site.url }}/images/animal-friends-screens.png "AnimalFriends App in Portrait and Landscape Modes")
+![animal-friends-screens](https://s3.us-east-2.amazonaws.com/jarrodparkes.com/animal-friends-screens.png "AnimalFriends App in Portrait and Landscape Modes")
 
 While the UI elements for each orientation are the same, the properties for these elements differ based on traits. Specifically, I'm utilizing the height trait to determine the orientation of stack views which position everything on screen.
 
-![animal-friends-traits]({{ site.url }}/images/animal-friends-traits.png "Modifying Properties Based on Traits for AnimalFriends")
+![animal-friends-traits](https://s3.us-east-2.amazonaws.com/jarrodparkes.com/animal-friends-traits.png "Modifying Properties Based on Traits for AnimalFriends")
 
 In the above screenshot, you can see where I am attempting to add a new variant to a stack view based on the traits of the currently simulated device (iPhone 6s Plus) in storyboard. The dialog in the image appears by clicking on the plus sign icon next to the Axis property, but the same would be true if I clicked on the plus sign next to any property that has the ability to change based on traits. As evident in the dialog, the iPhone 6s Plus has a width that is considered Regular, a height of Compact, and a gamut of Any. If I were to click "Add Variation", then I would be granted the ability to change the Axis for this particular variation of traits.
 

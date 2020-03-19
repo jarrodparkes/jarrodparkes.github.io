@@ -5,7 +5,7 @@ date: 2008-12-01
 tags: modeling
 ---
 
-![prime8-character-cover]({{ site.url }}/images/prime8-character-cover.png "Prime8 Character Sheet")
+![prime8-character-cover](https://s3.us-east-2.amazonaws.com/jarrodparkes.com/prime8-character-cover.png "Prime8 Character Sheet")
 
 The Prime8 Monkey Model was my first attempt at a fully textured and rigged character model. The design was inspired by a commando monkey sketch I found online similar to the sketch seen [here](http://www.ericweathers.net/2011/04/sketch-day-chimp-army.html). The monkey has a persona comparable to a hardened war veteran from the World War 2 era.
 

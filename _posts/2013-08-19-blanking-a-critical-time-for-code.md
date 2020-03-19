@@ -5,7 +5,7 @@ date: 2013-08-19
 tags: nes
 ---
 
-![blanking-cover]({{ site.url }}/images/blanking-cover.png "Blanking")
+![blanking-cover](https://s3.us-east-2.amazonaws.com/jarrodparkes.com/blanking-cover.png "Blanking")
 
 > Blanking Cover Image: Provided by Clif Haley. Found [here](http://clifhaley.com/2012/12/09/colored-line-drawings-in-photoshop/writers-block).
 Atari TIA Timing Diagram: Provided freely on [AtariAge Forums](http://atariage.com/forums/index.php).
@@ -16,7 +16,7 @@ Every video game needs graphics (even text-based video games need a way to displ
 
 Well, the answer can be very complicated and very simple, but it all falls on an understanding of cathode ray televisions. Before flat screen LCDs, the most common television was the cathode ray television (CRT). Anyways, CRTs use an electron beam to heat parts of a phosphor-coated screen causing small particles to glow. The first CRTs used one phosphor coating that glowed white, but future CRTs used three phosphors to glow red, green, and blue (hence RGB!). To glow/emit/draw/render an entire screen, the electron beam was required to move from left-to-right in lines starting at the top of the screen and working down to the bottom. These lines are known as "scanlines". Thus, a CRT display can be thought of in terms of scanlines and screens where many scanlines make a full screen. Below is a diagram from the [AtariAge](http://atariage.com) development community showing the scanlines which build an Atari "game screen" for Pitfall.
 
-![atari-tia-timing]({{ site.url }}/images/atari-tia-timing.png "atari-tia-timing")
+![atari-tia-timing](https://s3.us-east-2.amazonaws.com/jarrodparkes.com/atari-tia-timing.png "atari-tia-timing")
 
 Now that we have a basic understanding of CRTs, we can make the relation. Formally, blanking refers to the time it takes for the electron beam to align itself to draw a new scanline or a new screen. For example, when the electron beam finishes rendering one screen, the beam will have stopped in bottom right-hand corner where it finished the last scanline. In order to draw the next screen, the beam must travel back to the top left-hand corner to draw the first scanline of the next screen. Also, during that time, the beam should be turned off so that it does not effect anything currently displayed. This is vertical blanking or VBLANK.
 
@@ -28,6 +28,6 @@ First, you must keep in mind that to the human eye, blanking occurs so fast that
 
 Now, it is time to think a little deeper. If a game developer DID NOT update graphics during blanking time, then bad side effects COULD occur. For example, if graphics code was changed while the electron beam was moving across the screen, then unexpected graphics could be drawn to the screen. In many cases, if this happens, partial pieces of a graphic might get drawn to the screen resulting in a visual glitch or flaw. Here is an old image I took during the development of RB3 showing a glitch caused by incorrectly updating graphics during VBLANK time.
 
-![blanking error]({{ site.url }}/images/rb3-1-1-1-bug.png "blanking error")
+![blanking error](https://s3.us-east-2.amazonaws.com/jarrodparkes.com/rb3-1-1-1-bug.png "blanking error")
 
 Lastly, blanking time is not solely limited to graphics updates. In fact, blanking time is also used to do physics calculations, scoring, and many other features in video games. In retrospect, remember that blanking is a term that translates to free time for a programmer. And by free time, I am referring to critical programming time to run important code.

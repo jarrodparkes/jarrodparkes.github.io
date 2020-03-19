@@ -5,19 +5,19 @@ date: 2014-01-20
 tags: nes
 ---
 
-![nes-attribute-tables]({{ site.url }}/images/nes-attribute-tables.png "NES Attribute Tables")
+![nes-attribute-tables](https://s3.us-east-2.amazonaws.com/jarrodparkes.com/nes-attribute-tables.png "NES Attribute Tables")
 
 > Painted Tile Image: Taken and Produced by [Chelsea Rominski](http://mygoodmorning.com/) for her [DIY Tile Painting Project](http://mygoodmorning.com/2013/05/16/painting-tiles-coffee-table-revamp/).
 
 Following my last post on [NES Nametables](https://www.jarrodparkes.com/nes-nametables/), I will be introducing the attribute table. An attribute table is a mechanism for applying color to NES backgrounds. Unlike a nametable, the attribute tables consists of values that correspond to 32x32 pixel regions. Each 32x32 pixel region overlaps with 16 background tiles from a nametable (except for the edge regions). The image below shows how a NES background (nametable) may be subdivided by the attribute table.
 
-![NES Attribute Table Split]({{ site.url }}/images/nes-attribute-split.png "NES Attribute Table Split")
+![NES Attribute Table Split](https://s3.us-east-2.amazonaws.com/jarrodparkes.com/nes-attribute-split.png "NES Attribute Table Split")
 
 ## How does an attribute table apply color?
 
 Based on the image above, there are a total of 64 attribute table regions. For each region, a full byte is used--making each attribute table 64 bytes wide. Each byte is split into 2-bit values that determine the color palettes to use on the underlying tile areas. And each 2-bit pair will determine the color for a group of 4 tiles. As you may have guessed, the 2-bit values can correspond to any of the 4 background sub-palettes supported by the NES PPU. Some example sub-palettes are shown below, as well as a tile region modified by an attribute table.
 
-![NES Attribute Example]({{ site.url }}/images/nes-attribute-example.png "NES Attribute Example")
+![NES Attribute Example](https://s3.us-east-2.amazonaws.com/jarrodparkes.com/nes-attribute-example.png "NES Attribute Example")
 
 If you are paying very close attention, you may have noticed that each sub-palette shares the same first color. The first color in each sub-palette is what is know as the backdrop color. The backdrop color becomes more important when sprites are added to the mix, but that is for another day.
 

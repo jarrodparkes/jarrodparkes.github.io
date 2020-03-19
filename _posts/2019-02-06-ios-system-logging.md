@@ -30,6 +30,6 @@ Once the `os_log` statement is executed at runtime, the message will be added to
 
 In the Console app, you can filter messages by subsystem or category by adding the proper queries in the search bar:
 
-![ios-system-logging]({{ site.url }}/images/ios-system-logging.png "Console app filtering")
+![ios-system-logging](https://s3.us-east-2.amazonaws.com/jarrodparkes.com/ios-system-logging.png "Console app filtering")
 
 And Viola!

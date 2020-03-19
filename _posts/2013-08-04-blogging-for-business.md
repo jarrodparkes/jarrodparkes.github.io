@@ -5,11 +5,11 @@ date: 2013-08-04
 tags: learning
 ---
 
-![blogging-for-business]({{ site.url }}/images/blogging-for-business.png "Blogging for Business")
+![blogging-for-business](https://s3.us-east-2.amazonaws.com/jarrodparkes.com/blogging-for-business.png "Blogging for Business")
 
 Two weeks ago, I stumbled upon a new video series being offered at [Team TreeHouse](http://teamtreeehouse.com) on "How to Build Your Business Through Blogging" featuring author and blogger extraordinaire C.C. Chapman. It sounded interesting because I blog from time to time, but I had never taken a business approach to blogging... so I watched it.
 
-![blogging-with-cc-chapman]({{ site.url }}/images/blogging-with-cc-chapman.png "Blogging with C.C. Chapman")
+![blogging-with-cc-chapman](https://s3.us-east-2.amazonaws.com/jarrodparkes.com/blogging-with-cc-chapman.png "Blogging with C.C. Chapman")
 
 Prior to watching the videos, I had no idea who Chapman was or if the series would be worth the time it took to watch; however, I trusted that TreeHouse would deliver again with quality material. And thankfully they did. Taking Chapman's advice, I have already started yielding the fruits of my labor by redesigning this blog.
 

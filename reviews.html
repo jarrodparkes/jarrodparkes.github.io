@@ -3,9 +3,9 @@ layout: default
 ---
 <div class="home">
     <ul class="posts">
-        {% assign presentations = (site.posts | where: "layout" , "review") %}
+        {% assign presentations = site.posts | where: "layout" , "review" %}
         {% for presentation in presentations %}
-        <li><span>{{ presentation.date | date: site.date_format }}</span><a href="{{ presentation.url | prepend: site.baseurl }}">{{ presentation.title }}</a></li>
+        <li><span>{{ presentation.date | date: site.date_format }}</span><a href="https://s3.us-east-2.amazonaws.com/jarrodparkes.com/{{ presentation.url }}">{{ presentation.title }}</a></li>
         {% endfor %}
     </ul>
 </div>

@@ -5,7 +5,7 @@ date: 2009-11-01
 tags: unity3d
 ---
 
-![zomblings-cover]({{ site.url }}/images/zomblings-cover.png "Zomblings")
+![zomblings-cover](https://s3.us-east-2.amazonaws.com/jarrodparkes.com/zomblings-cover.png "Zomblings")
 
 Zomblings was my first attempt at developing basic computer AI in Unity3D. The capsule-shaped enemies are called "zomblings", and yes they are zombies. For their pathfinding, they do not move within a grid system like more classical approaches. Instead, each zombling tracks through an array of waypoints and nodes that are placed around the arena. This design was more consistent with the pathfinding in more modern 3D games.
 

@@ -5,7 +5,7 @@ date: 2013-10-02
 tags: nes
 ---
 
-![huffman-basics-cover]({{ site.url }}/images/huffman-basics-cover.png "Huffman Basics")
+![huffman-basics-cover](https://s3.us-east-2.amazonaws.com/jarrodparkes.com/huffman-basics-cover.png "Huffman Basics")
 
 > Battletoads Huffman Example Images: Provided by [Brad Smith](http://rainwarrior.ca/).
 YouTube Huffman Compression Video: Provided on [Travelschlepp's Channel](http://www.youtube.com/user/travelschlepp/about).
@@ -34,26 +34,26 @@ Part 2: Decompressing the Data
 
 Do not worry! When I first started studying Huffman coding, it took me a whole weekend to understand the process. So, I have created some visual examples to drive home the concept.
 
-![huffman-map]({{ site.url }}/images/huffman-map.png "huffman-map")
+![huffman-map](https://s3.us-east-2.amazonaws.com/jarrodparkes.com/huffman-map.png "huffman-map")
 
 Above, is a simple image of some random tiles arranged into a map. For the sake of example, let us assume that **each tile takes 1 byte to represent**. Since the map consists of a total of one-hundred tiles, then that means the map takes 100 bytes to represent (100 tiles x 1 byte per tile). So our goal for this Huffman compression is to reduce the size of the mapper to less than 100 bytes!
 
 To begin, we must analyze our basic symbols. In this case, our symbols are the tiles themselves. We have a total of 5 symbols: wood, stone, grass, dirt, and water. Then, we must calculate their frequencies in the map. This has been completed in the image below.
 
-![huffman-freq]({{ site.url }}/images/huffman-freq.png "huffman-freq")
+![huffman-freq](https://s3.us-east-2.amazonaws.com/jarrodparkes.com/huffman-freq.png "huffman-freq")
 
 Now, we must construct our Huffman tree and encode each tile. For this step, here is wonderful [YouTube video](http://youtu.be/0PahtaFK640) that describes the process using letters instead of map tiles. Before I found this video, I was in the dark... so hopefully it will be equally helpful for you. Continuing with this example, I have included the steps to create a single node in the Huffman tree. You continue doing the process until all symbols have been added to the tree.
 
-![huffman-creating-nodes]({{ site.url }}/images/huffman-creating-nodes.png "huffman-creating-nodes")
+![huffman-creating-nodes](https://s3.us-east-2.amazonaws.com/jarrodparkes.com/huffman-creating-nodes.png "huffman-creating-nodes")
 
-![huffman-tree]({{ site.url }}/images/huffman-tree.png "huffman-tree")
+![huffman-tree](https://s3.us-east-2.amazonaws.com/jarrodparkes.com/huffman-tree.png "huffman-tree")
 
 At this point, the bulk of the algorithm is over. Our last step is to encode a symbol (tile) by traversing the Huffman tree. To encode the entire map, we would need to encode each tile; however, since this process becomes trivial, I have only shown how to encode one wood tile. Also, the decompression is exactly the same, but in the reverse order.
 
-![huffman-traversal]({{ site.url }}/images/huffman-traversal.png "huffman-traversal")
+![huffman-traversal](https://s3.us-east-2.amazonaws.com/jarrodparkes.com/huffman-traversal.png "huffman-traversal")
 
 So, in the above example we have saved 5 bits for the single wood tile. By doing some quick math, we can see that for wood tiles we will save a total of 45 bits (9 wood tiles x 5 bits saved per wood tile) for the entire map. If we run the algorithm for the full map, we will save a total of 574 bits or 71.75 bytes (the new map will be only 28.25 bytes). Thus, our compression rate is about 71.75%, not too shabby! Or to sound more impressive, you could say the original map is more than 3 times the size of our compressed map!
 
 You will find that the effectiveness of Huffman coding (like all compression algorithms) depends on your data set. There are many articles which describe the optimal use-cases for such an algorithm, but I will leave that topic for another day. In closing, I will leave you with this following image provided by Brad Smith... the Huffman tree used by Battletoads. Awesome!
 
-![huffman-battletoads]({{ site.url }}/images/huffman-battletoads.png "huffman-battletoads")
+![huffman-battletoads](https://s3.us-east-2.amazonaws.com/jarrodparkes.com/huffman-battletoads.png "huffman-battletoads")

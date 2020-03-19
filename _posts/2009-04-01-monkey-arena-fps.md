@@ -5,7 +5,7 @@ date: 2009-04-01
 tags: unity3d
 ---
 
-![monkey-arena-cover]({{ site.url }}/images/monkey-arena-cover.png "Monkey Arena")
+![monkey-arena-cover](https://s3.us-east-2.amazonaws.com/jarrodparkes.com/monkey-arena-cover.png "Monkey Arena")
 
 Monkey Arena is a multiplayer FPS game I created in the Unity3D game engine. This was the first installment of a series of monkey-theme games I worked on with my twin brother. Monkey Arena was largely influenced by Halo, Call of Duty, Donkey Kong 64, and Team Fortress 2 for its cartoon/cell-shaded graphics.
 

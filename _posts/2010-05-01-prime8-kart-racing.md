@@ -5,7 +5,7 @@ date: 2010-05-01
 tags: unity3d
 ---
 
-![prime8-cover]({{ site.url }}/images/prime8-cover.png "Prime8 Concept Art")
+![prime8-cover](https://s3.us-east-2.amazonaws.com/jarrodparkes.com/prime8-cover.png "Prime8 Concept Art")
 
 Prime8 Kart Racing is a racing game inspired by other kart-racing classics like Mario Kart 64 and Crash Team Racing for Sony's Playstation. In the summer of 2010, I started working on this game by developing the kart mechanics. Since I knew the mechanics of Mario Kart 64 were widely adopted and fun to play, I collected test data from an N64 emulator and the Luigi Raceway level. This is what later inspired to recreate Luigi Raceway in Unity3D so that I could use the level to test my code.
 

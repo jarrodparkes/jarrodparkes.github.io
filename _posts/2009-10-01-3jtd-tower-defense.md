@@ -5,7 +5,7 @@ date: 2009-10-01
 tags: unity3d
 ---
 
-![3jtd-cover]({{ site.url }}/images/3jtd-cover.png "3JTD")
+![3jtd-cover](https://s3.us-east-2.amazonaws.com/jarrodparkes.com/3jtd-cover.png "3JTD")
 
 After a long series of game prototypes, my twin brother James, our colleague John Crabtree, and myself were ready to make a game from start to finish. 3JTD was created in *one week* in Unity3D during the [2009 Unite Conference](http://www.gamesindustry.biz/articles/unite-2009---unity-conference-ea-s-richard-hilleman-doing-a-keynote-later-this-month-in-san-francisco) in San Francisco. Between speakers, we worked side-by-side to complete the game.
 

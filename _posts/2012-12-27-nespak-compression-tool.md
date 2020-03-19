@@ -5,7 +5,7 @@ date: 2012-12-27
 tags: nes
 ---
 
-![nespak-cover]({{ site.url }}/images/nespak-cover.png "NESPAK Compression Tool")
+![nespak-cover](https://s3.us-east-2.amazonaws.com/jarrodparkes.com/nespak-cover.png "NESPAK Compression Tool")
 
 NESPAK is a simple command-line tool I created to compress data for my NES games. NESPAK supports RLE, LZ-78, and Huffman compression types.
 

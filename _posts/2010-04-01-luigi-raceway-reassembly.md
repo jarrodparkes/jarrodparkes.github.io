@@ -5,7 +5,7 @@ date: 2010-04-01
 tags: unity3d
 ---
 
-![luigi-raceway-cover]({{ site.url }}/images/luigi-raceway-cover.png "Luigi Raceway")
+![luigi-raceway-cover](https://s3.us-east-2.amazonaws.com/jarrodparkes.com/luigi-raceway-cover.png "Luigi Raceway")
 
 For Prime8 Kart Racing, I wanted to recreate one of my favorite experiences from Mario Kart 64. The result was a recreation of Luigi Raceway.
 

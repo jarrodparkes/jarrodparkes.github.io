@@ -5,7 +5,7 @@ date: 2012-12-27
 tags: nes
 ---
 
-![rb3-cover]({{ site.url }}/images/rb3-cover.png "Red Block Blue Block")
+![rb3-cover](https://s3.us-east-2.amazonaws.com/jarrodparkes.com/rb3-cover.png "Red Block Blue Block")
 
 I am finally ready to announce my first NES homebrew, Red Block Blue Block (RB3). RB3 is a simple game that pits a red block against an army of blue blocks. The style of the game is based on simple arcade classics like Snake and Space Invaders. RB3 is still a work in progress, but it is currently on stable release RB3 v1.1.1. I intend on using this project as an ongoing testbed for my NES development.
 

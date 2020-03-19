@@ -5,7 +5,7 @@ date: 2013-11-02
 tags: ios
 ---
 
-![health24-cover]({{ site.url }}/images/health24-cover.png "Health24 Mobile App")
+![health24-cover](https://s3.us-east-2.amazonaws.com/jarrodparkes.com/health24-cover.png "Health24 Mobile App")
 
 During my final year at the University of Alabama in Huntsville, I was invited to join a student programming team for America’s Datafest 2013. The team was asked to compete in the weekend-long hack-a-thon to develop an application for aiding migrants. After one weekend of intense coding and collaboration, our team created a healthcare application called Health24.
 

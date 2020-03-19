@@ -5,7 +5,7 @@ date: 2008-07-01
 tags: modeling
 ---
 
-![virtual-lab-cover]({{ site.url }}/images/virtual-lab-model-cover.png "Virtual Science LAB Models")
+![virtual-lab-cover](https://s3.us-east-2.amazonaws.com/jarrodparkes.com/virtual-lab-model-cover.png "Virtual Science LAB Models")
 
 These science lab models were created in 2009 for the [HudsonAlpha Institute for Biotechnology's](http://www.hudsonalpha.org/) DNA Day. Each lab model was created using Google SketchUp 7. At the time, the team I worked for used Google SketchUp 7 because it was the most simple modeling program that could easily pipeline into the Unity3D game engine. The final textured lab models were pieced together into a fully textured virtual science lab which served as the backdrop for a 3D science experiment about DNA.
 

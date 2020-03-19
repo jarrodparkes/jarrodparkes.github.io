@@ -5,7 +5,7 @@ date: 2015-03-20
 tags: travel
 ---
 
-![day-1-katie-and-jarrod]({{ site.url }}/images/day-1-katie-and-jarrod.jpg "Day 1 Katie and Jarrod")
+![day-1-katie-and-jarrod](https://s3.us-east-2.amazonaws.com/jarrodparkes.com/day-1-katie-and-jarrod.jpg "Day 1 Katie and Jarrod")
 
 Katie encouraged me to start writing on my blog again, and since she is visiting me in California for the next 11 days... this is the perfect time to start. For those who need some context: Katie is my girlfriend and she is awesome!
 

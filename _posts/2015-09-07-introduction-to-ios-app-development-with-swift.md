@@ -5,7 +5,7 @@ date: 2015-09-07
 tags: ios
 ---
 
-![apple-swift-logo]({{ site.url }}/images/apple-swift-logo.jpg "Apple Swift Logo")
+![apple-swift-logo](https://s3.us-east-2.amazonaws.com/jarrodparkes.com/apple-swift-logo.jpg "Apple Swift Logo")
 
 On Mondays through Fridays, I create learning materials for Udacity's iOS Nanodegree, but I never actually found time to take the Nanodegree myself. On this 3-day weekend, I changed that. I am currently finishing the first course/project, and I am really enjoying learning from my fellow Udacians and peers. Here is my post for what I've learned so far in the [Introduction to iOS App Development with Swift](https://www.udacity.com/course/intro-to-ios-app-development-with-swift--ud585-nd) course.
 

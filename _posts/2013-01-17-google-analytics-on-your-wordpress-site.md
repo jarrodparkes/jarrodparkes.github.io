@@ -5,7 +5,7 @@ date: 2013-01-17
 tags: web
 ---
 
-![google-analytics]({{ site.url }}/images/google-analytics.png "Google Analytics")
+![google-analytics](https://s3.us-east-2.amazonaws.com/jarrodparkes.com/google-analytics.png "Google Analytics")
 
 Google Analytics is a robust web platform for tracking usage statistics, traffic, and many other demographics on websites. After speaking with a coworker about Google Analytics, I decided to take a look at the product myself.
 
@@ -18,7 +18,7 @@ To test Google Analytics, I used one of my WordPress sites, but any site would d
 
 You can find the tracking code under "Tracking Info" in the Admin section. Look for the JavaScript icon. Here is a copy of my snippet with the Tracking ID number boxed out.
 
-![google-analytics-tracking-code]({{ site.url }}/images/google-analytics-tracking-code.png "Google Analytics Tracking Code")
+![google-analytics-tracking-code](https://s3.us-east-2.amazonaws.com/jarrodparkes.com/google-analytics-tracking-code.png "Google Analytics Tracking Code")
 
 If your site does not use WordPress, adding the Google Analytics tracking code is still very straightforward. Assuming your site is dynamically generated using a server-side scripting language, just copy and paste the tracking code into a source file that get embedded in the &lt;header&gt; section of every page on your site. For most cases, the source file will probably be named something like "header.{file-extension}", but if not, you can always create your own.
 

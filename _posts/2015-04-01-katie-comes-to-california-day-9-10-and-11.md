@@ -5,7 +5,7 @@ date: 2015-04-01
 tags: travel
 ---
 
-![day-9-cover]({{ site.url }}/images/day-9-cover.jpg "Day 9, 10, and 11 Katie and Jarrod")
+![day-9-cover](https://s3.us-east-2.amazonaws.com/jarrodparkes.com/day-9-cover.jpg "Day 9, 10, and 11 Katie and Jarrod")
 
 *Since it reads more clearly, I am writing this post in first-person; however, Katie and I are creating this content together. Also, she took all the pictures!*
 
@@ -17,14 +17,14 @@ For our improvised surf lesson, Chris walked us down to the edge of the wate
 
 Before heading back to Mountain View, we had lunch at the [East Side Eatery](http://pleasurepizzasc.com/ese-menu/) and spent the afternoon beachside in Capitola with Chris' friends and family.
 
-![day-9-groupie]({{ site.url }}/images/day-9-groupie.png "day-9-groupie")
+![day-9-groupie](https://s3.us-east-2.amazonaws.com/jarrodparkes.com/day-9-groupie.png "day-9-groupie")
 
 **Day 10**. Katie and I both needed to recover and relax. Because of this, napping, washing clothes, and packing up consumed most of the day. However, we did get out the apartment to enjoy the local area one last time. We stopped by the Mountain View Public Library so that Katie and I could catch up on small, but pressing, school/work tasks. Then, for lunch, we made another pass at savory and sweet crepes at the [Crepevine](http://www.crepevine.com/crepevine-locations-mountainview.html) in downtown Mountain View. They were awesome!
 
-![day-10-crepe]({{ site.url }}/images/day-10-crepe.jpg "day-10-crepe")
+![day-10-crepe](https://s3.us-east-2.amazonaws.com/jarrodparkes.com/day-10-crepe.jpg "day-10-crepe")
 
 The remainder of the day was spent sitting by the pool and in the hot tub. For dinner, per Katie's request, we stopped by [Shalala](http://www.ramenshalala.com/) to get "real" Ramen noodles (no, they are not the same cheap ones that keep college students from starving). Katie had mixed opinions—mainly because of the fishiness of her Ramen's broth—but all-in-all, it was success. And for dessert, more bubble tea (this time with the tapioca pearls)!
 
-![day-10-bye-bye]({{ site.url }}/images/day-10-bye-bye.jpg "day-10-bye-bye")
+![day-10-bye-bye](https://s3.us-east-2.amazonaws.com/jarrodparkes.com/day-10-bye-bye.jpg "day-10-bye-bye")
 
 **Day 11**. I dropped Katie off at the airport. The rest of the day was sad and uneventful.

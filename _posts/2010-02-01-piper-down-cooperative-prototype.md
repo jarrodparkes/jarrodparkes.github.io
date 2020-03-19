@@ -5,7 +5,7 @@ date: 2010-02-01
 tags: unity3d
 ---
 
-![piperdown-cover]({{ site.url }}/images/piperdown-cover.png "Piper Down")
+![piperdown-cover](https://s3.us-east-2.amazonaws.com/jarrodparkes.com/piperdown-cover.png "Piper Down")
 
 Piper Down was an innovative co-operative action game set on an unknown planet in outer space. I was the project manager and lead developer for this game. Piper Down was built in Unity3D, and it functioned with two Xbox 360 controllers, but may have also been played on the web.
 

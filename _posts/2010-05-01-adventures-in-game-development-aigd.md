@@ -5,7 +5,7 @@ date: 2010-05-01
 tags: gamedev
 ---
 
-![aigd-cover]({{ site.url }}/images/aigd-cover.png "Adventures in Game Development")
+![aigd-cover](https://s3.us-east-2.amazonaws.com/jarrodparkes.com/aigd-cover.png "Adventures in Game Development")
 
 In the summer of 2010, I was invited to participate in the Adventures in Game Development (AiGD) YouTube series. My role was to demo game development in Unity.
 

@@ -5,7 +5,7 @@ date: 2009-10-01
 tags: modeling
 ---
 
-![prime8-weapons-cover]({{ site.url }}/images/prime8-weapons-cover.png "Prime8 Weapons")
+![prime8-weapons-cover](https://s3.us-east-2.amazonaws.com/jarrodparkes.com/prime8-weapons-cover.png "Prime8 Weapons")
 
 After the code development for Monkey Arena had reached a breakpoint in the summer of 2009, I started to create gun models for game testing. To give the game more of an identity, the "Monkey" name was replaced with the name "Prime8". Thus, this group of models became known as the Prime8 Weapons.
 

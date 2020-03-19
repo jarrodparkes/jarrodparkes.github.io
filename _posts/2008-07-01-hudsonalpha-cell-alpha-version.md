@@ -5,7 +5,7 @@ date: 2008-07-01
 tags: unreal
 ---
 
-![ha-cell-cover]({{ site.url }}/images/ha-cell-cover.png "HudsonAlpha Cell")
+![ha-cell-cover](https://s3.us-east-2.amazonaws.com/jarrodparkes.com/ha-cell-cover.png "HudsonAlpha Cell")
 
 In the summer of 2008, I had the privilege of assisting with the asset development for Digital Radiance’s prototype of the HudsonAlpha Cell. The project's goal was to create a 3D cell where users could closely examine a cell's anatomy including the nucleus, DNA, and many other parts of the cell. The concept was inspired by the high-to-low zooming seen in the Google Earth web application. I contributed to the project by texturing various parts of the cell and creating the lab-like environment which housed the cell.
 

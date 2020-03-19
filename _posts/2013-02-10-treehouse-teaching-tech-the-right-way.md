@@ -5,13 +5,13 @@ date: 2013-02-10
 tags: learning
 ---
 
-![learn-treehouse-cover]({{ site.url }}/images/learn-treehouse-cover.png "Learn Treehouse")
+![learn-treehouse-cover](https://s3.us-east-2.amazonaws.com/jarrodparkes.com/learn-treehouse-cover.png "Learn Treehouse")
 
 Since I started school this spring, it has been difficult for me to find time for projects or development. Instead, I have been spending most of my time learning new topics related to web design using [Team TreeHouse](https://teamtreehouse.com/)—an online learning service that specializes in teaching tech. My twin brother James introduced me to TreeHouse after seeing one of their ads on YouTube. And, I cannot thank James enough for finding them!
 
 ## "The Right Way"
 
-![treehouse-ad]({{ site.url }}/images/treehouse-ad.png "Treehouse Ad")
+![treehouse-ad](https://s3.us-east-2.amazonaws.com/jarrodparkes.com/treehouse-ad.png "Treehouse Ad")
 
 TreeHouse is teaching technology "the right way". They are not teaching out of a boring textbook, from a chalkboard, or behind a lectern (especially for computer-based topics). Instead, they teach technology with technology—using brilliantly crafted video tutorials, in-browser quizzes, and challenging follow along examples. If only I had discovered TreeHouse sooner and not wasted hours and dollars with college courses that fail to teach the same concepts!
 
