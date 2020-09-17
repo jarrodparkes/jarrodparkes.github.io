@@ -5,14 +5,16 @@ layout: default
 <div class="home">
     <ul class="posts">
         {% for post in site.posts %}
-            {% if post.layout == 'post' or post.layout == 'review' %}
+            {% if post.layout == 'post' or post.layout == 'review' or post.layout == 'presentation' %}
                 <li>
                     <span>{{ post.date | date: site.date_format }}</span>
                     <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
                     {% if post.layout == 'post' %}
                         <div class="label post-label">{{ post.layout }}</div>
-                    {% else %}
+                    {% elsif post.layout == 'review' %}
                         <div class="label review-label">{{ post.layout }}</div>
+                    {% else %}
+                        <div class="label presentation-label">{{ post.layout }}</div>
                     {% endif %}
                 </li>
             {% endif %}
