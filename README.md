@@ -4,4 +4,11 @@ This is the repository for [https://jarrodparkes.github.io/](https://jarrodparke
 
 ## Testing Locally
 
-Run `jekyll serve`
+```bash
+brew install rbenv
+rbenv install 3.4.9
+rbenv local 3.4.9
+gem install jekyll
+rbenv rehash
+jekyll serve
+```
