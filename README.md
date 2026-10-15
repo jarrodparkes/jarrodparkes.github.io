@@ -31,9 +31,69 @@ How the pieces fit together in Jekyll:
 - Each file in `_posts/` sets `layout: post`, `layout: review`, or `layout: presentation` in its front matter. That picks the matching file in `_layouts/`, which renders the article and then nests itself inside `_layouts/default.html`.
 - The layout name also sets the colored type label: `label-post`, `label-review`, or `label-presentation`.
 - `css/main.scss` starts with empty front matter (`---`). That tells Jekyll to compile it, pulling in the partials from `_sass/` with `@import`, and write the result to `/css/main.css`. `@import` is used instead of `@use` so the same files compile on local Jekyll and on GitHub Pages, whose Sass compiler does not support `@use`.
-- Fonts (Fraunces, Source Serif 4, IBM Plex Mono) load from Google Fonts in `_layouts/default.html`.
+- Fonts (Fraunces, Source Serif 4, IBM Plex Mono, Noto Serif JP) load from Google Fonts in `_layouts/default.html`.
 
 Posts and URLs don't depend on the theme. Writing a new post works the same as always: add a Markdown file to `_posts/` with the right `layout`.
+
+## Post languages
+
+Posts can declare the languages in which they were written with a `languages`
+array in their front matter:
+
+```yaml
+languages:
+  - ja
+  - en
+```
+
+The site shows `🇯🇵 日本語` and `🇺🇸 English` badges beside entries in lists and
+in article headers. These badges describe the author's original writing; they
+do not imply that a post was automatically translated. Existing posts without
+the field default to English, so they do not all need to be updated at once.
+
+The first value is the post's primary language. It sets the HTML `lang`
+attribute on the document, article, and linked title so browsers and assistive
+technology can handle the text correctly. Supported values are `ja` and `en`.
+Noto Serif JP is loaded as the Japanese fallback for the site's existing
+typefaces.
+
+For a post written entirely in Japanese, use `languages: [ja]` and write
+Markdown normally. For a genuinely bilingual post, identify each section's
+language explicitly. A complete example post looks like this:
+
+```markdown
+---
+layout: post
+title: 日本語で書くこと
+date: 2026-10-14
+tags: japanese learning
+languages:
+  - ja
+  - en
+---
+
+<section lang="ja" markdown="1">
+
+## 日本語
+
+これは日本語で書いた最初の記事です。まだ勉強中ですが、自分の言葉で
+考えたことを少しずつ書いていきたいです。
+
+</section>
+
+<section lang="en" markdown="1">
+
+## English
+
+This is my first post written in Japanese. I am still learning, but I want to
+gradually write about my experiences in my own words.
+
+</section>
+```
+
+The `markdown="1"` attribute tells Kramdown to process Markdown inside each
+HTML language section. Put the primary language first in `languages` and first
+in the article.
 
 ## Setup
 

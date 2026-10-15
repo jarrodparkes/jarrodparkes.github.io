@@ -1,0 +1,18 @@
+{% assign languages = include.languages %}
+{% unless languages %}{% assign languages = "en" | split: "," %}{% endunless %}
+<span class="languages" aria-label="Languages">
+    {% for language in languages %}
+        {% case language %}
+        {% when "ja" %}
+            <span class="language-badge" title="Japanese">
+                <span aria-hidden="true">🇯🇵</span>
+                <span lang="ja">日本語</span>
+            </span>
+        {% when "en" %}
+            <span class="language-badge" title="English">
+                <span aria-hidden="true">🇺🇸</span>
+                <span>English</span>
+            </span>
+        {% endcase %}
+    {% endfor %}
+</span>

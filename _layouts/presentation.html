@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-<article class="post">
+{% assign post_language = page.languages | first | default: "en" %}
+<article class="post" lang="{{ post_language }}">
     {% include post-header.html %}
     <div class="post-body">
         <iframe src="{{ page.pdf }}" width="100%" height="700"></iframe>

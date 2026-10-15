@@ -1,10 +1,14 @@
 {% assign entry = include.entry %}
+{% assign entry_language = entry.languages | first | default: "en" %}
 <li class="entry{% if include.year != "" %} entry-year-start{% endif %}">
     <span class="entry-year">{{ include.year }}</span>
     <span class="entry-date">{{ entry.date | date: site.date_format }}</span>
     <span class="entry-title">
-        <a href="{{ include.href }}">{{ entry.title }}</a>
+        <a href="{{ include.href }}" lang="{{ entry_language }}">{{ entry.title }}</a>
         {% if include.show_where and entry.where %}<span class="entry-where">{{ entry.where }}</span>{% endif %}
     </span>
-    <span class="label label-{{ entry.layout }}">{{ entry.layout }}</span>
+    <span class="entry-markers">
+        {% include languages.html languages=entry.languages %}
+        <span class="label label-{{ entry.layout }}">{{ entry.layout }}</span>
+    </span>
 </li>

@@ -105,6 +105,23 @@ main {
 .label-presentation {
   color: $red-color;
 }
+.languages {
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+.language-badge {
+  @extend %mono-caps;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4em;
+  padding: 0.35em 0.6em;
+  border: 1px solid $border-color;
+  color: $ink-soft-color;
+  font-size: $micro-font-size;
+  line-height: 1;
+  white-space: nowrap;
+}
 
 // Home hero
 
@@ -233,8 +250,13 @@ main {
     font-size: $tiny-font-size;
     color: $meta-color;
   }
-  .label {
+  .entry-markers {
     grid-area: label;
+    display: inline-flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 0.4rem;
     justify-self: end;
   }
 }

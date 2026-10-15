@@ -2,6 +2,7 @@
     <p class="post-kicker">
         <span class="label label-{{ page.layout }}">{{ page.layout }}</span>
         <span class="post-date">{{ page.date | date: site.date_format }}</span>
+        {% include languages.html languages=page.languages %}
     </p>
     <h1 class="post-title">{{ page.title }}</h1>
     {% if page.where %}<p class="post-meta">{{ page.where }}</p>{% endif %}
