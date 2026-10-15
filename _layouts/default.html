@@ -13,7 +13,23 @@
 <body>
     <div class="dateline">
         <div class="wrap dateline-inner">
-            <span>{{ site.time | date: "%A, %B %-d, %Y" | upcase }}</span>
+            <time id="dateline-date" datetime="{{ site.time | date: "%Y-%m-%d" }}">{{ site.time | date: "%A, %B %-d, %Y" | upcase }}</time>
+            <script>
+                (function () {
+                    var el = document.getElementById("dateline-date");
+                    if (!el) return;
+                    var now = new Date();
+                    var month = String(now.getMonth() + 1).padStart(2, "0");
+                    var day = String(now.getDate()).padStart(2, "0");
+                    el.dateTime = now.getFullYear() + "-" + month + "-" + day;
+                    el.textContent = now.toLocaleDateString("en-US", {
+                        weekday: "long",
+                        month: "long",
+                        day: "numeric",
+                        year: "numeric"
+                    }).toUpperCase();
+                })();
+            </script>
             <span class="dateline-tagline">{{ site.description }}</span>
         </div>
     </div>

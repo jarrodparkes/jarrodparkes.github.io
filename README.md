@@ -30,7 +30,7 @@ How the pieces fit together in Jekyll:
 
 - Each file in `_posts/` sets `layout: post`, `layout: review`, or `layout: presentation` in its front matter. That picks the matching file in `_layouts/`, which renders the article and then nests itself inside `_layouts/default.html`.
 - The layout name also sets the colored type label: `label-post`, `label-review`, or `label-presentation`.
-- `css/main.scss` starts with empty front matter (`---`). That tells Jekyll to compile it, pulling in the partials from `_sass/` via `@use`, and write the result to `/css/main.css`.
+- `css/main.scss` starts with empty front matter (`---`). That tells Jekyll to compile it, pulling in the partials from `_sass/` with `@import`, and write the result to `/css/main.css`. `@import` is used instead of `@use` so the same files compile on local Jekyll and on GitHub Pages, whose Sass compiler does not support `@use`.
 - Fonts (Fraunces, Source Serif 4, IBM Plex Mono) load from Google Fonts in `_layouts/default.html`.
 
 Posts and URLs don't depend on the theme. Writing a new post works the same as always: add a Markdown file to `_posts/` with the right `layout`.

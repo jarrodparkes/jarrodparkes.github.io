@@ -1,4 +1,4 @@
-@use "variables" as *;
+@import "variables";
 
 %mono-caps {
   font-family: $mono-font-family;
@@ -111,7 +111,7 @@ main {
 .hero {
   padding: 4rem 0 0;
   .hero-title {
-    font-size: clamp(2.75rem, 7vw, 5.5rem);
+        font-size: #{"clamp(2.75rem, 7vw, 5.5rem)"};
     line-height: 1.02;
     letter-spacing: -0.03em;
     margin: 0;
@@ -264,7 +264,7 @@ main {
     font-variant-numeric: tabular-nums;
   }
   .post-title {
-    font-size: clamp(2.25rem, 5vw, 3.5rem);
+        font-size: #{"clamp(2.25rem, 5vw, 3.5rem)"};
     line-height: 1.05;
     letter-spacing: -0.02em;
     margin: 1rem 0 0;
