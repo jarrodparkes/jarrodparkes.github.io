@@ -1,0 +1,10 @@
+{% assign entry = include.entry %}
+<li class="entry{% if include.year != "" %} entry-year-start{% endif %}">
+    <span class="entry-year">{{ include.year }}</span>
+    <span class="entry-date">{{ entry.date | date: site.date_format }}</span>
+    <span class="entry-title">
+        <a href="{{ include.href }}">{{ entry.title }}</a>
+        {% if include.show_where and entry.where %}<span class="entry-where">{{ entry.where }}</span>{% endif %}
+    </span>
+    <span class="label label-{{ entry.layout }}">{{ entry.layout }}</span>
+</li>

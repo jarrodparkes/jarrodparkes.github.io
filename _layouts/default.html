@@ -3,25 +3,66 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Merriweather:400,400italic,700">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;1,9..144,400&family=IBM+Plex+Mono:wght@400;500&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap">
     <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css">
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.url }}/feed.xml">
     <title>{{ site.title }}</title>
 </head>
 <body>
-    <main>
-        <header class="site-header">
-            <h1 class="site-title"><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
-            <nav class="site-nav">
+    <div class="dateline">
+        <div class="wrap dateline-inner">
+            <span>{{ site.time | date: "%A, %B %-d, %Y" | upcase }}</span>
+            <span class="dateline-tagline">{{ site.description }}</span>
+        </div>
+    </div>
+    <header class="masthead">
+        <div class="wrap masthead-inner">
+            <a class="masthead-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+            <nav class="masthead-nav">
                 <a href="https://github.com/{{ site.github_username }}">GitHub</a>
                 <a href="{{ site.baseurl }}/resume/">Resume</a>
                 <a href="https://www.linkedin.com/in/jarrodparkes">LinkedIn</a>
-                <a href="{{ site.baseurl }}/presentations">Presentations</a>
-                <a href="{{ site.baseurl }}/reviews">Reviews</a>
+                <a href="{{ site.baseurl }}/presentations"{% if page.url == "/presentations/" %} class="active"{% endif %}>Presentations</a>
+                <a href="{{ site.baseurl }}/reviews"{% if page.url == "/reviews/" %} class="active"{% endif %}>Reviews</a>
             </nav>
-        </header>
+        </div>
+    </header>
+    <main class="wrap">
         {{ content }}
     </main>
+    <footer class="site-footer">
+        <div class="wrap footer-grid">
+            <div class="footer-about">
+                <p class="footer-title">{{ site.title }}</p>
+                <p class="footer-description">{{ site.description }}</p>
+            </div>
+            <div>
+                <h4 class="footer-heading">Archive</h4>
+                <ul class="footer-links">
+                    <li><a href="{{ site.baseurl }}/">Posts</a></li>
+                    <li><a href="{{ site.baseurl }}/reviews">Reviews</a></li>
+                    <li><a href="{{ site.baseurl }}/presentations">Presentations</a></li>
+                </ul>
+            </div>
+            <div>
+                <h4 class="footer-heading">Elsewhere</h4>
+                <ul class="footer-links">
+                    <li><a href="https://github.com/{{ site.github_username }}">GitHub</a></li>
+                    <li><a href="https://www.linkedin.com/in/jarrodparkes">LinkedIn</a></li>
+                    <li><a href="{{ site.baseurl }}/resume/">Resume</a></li>
+                    <li><a href="mailto:{{ site.email }}">Email</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="footer-colophon">
+            <div class="wrap">
+                <span>&copy; {{ site.time | date: "%Y" }} {{ site.title }}</span>
+                <span>Built with Jekyll. Design inspired by <a href="https://ballotics.com">Ballotics</a>.</span>
+            </div>
+        </div>
+    </footer>
     {% if site.google_analytics %}
     <script>
         (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

@@ -1,11 +1,21 @@
 ---
 layout: default
 ---
-<div class="home">
-    <ul class="posts">
-        {% assign presentations = site.posts | where: "layout" , "review" %}
-        {% for presentation in presentations %}
-        <li><span>{{ presentation.date | date: site.date_format }}</span><a href="{{ presentation.url | prepend: site.baseurl }}">{{ presentation.title }}</a></li>
+{% assign reviews = site.posts | where: "layout" , "review" %}
+<section class="section">
+    <header class="section-header">
+        <span class="section-number">&sect;</span>
+        <h1 class="section-title">Reviews</h1>
+        <span class="section-aside">{{ reviews.size }} entries</span>
+    </header>
+    <ol class="entries">
+        {% assign previous_year = "" %}
+        {% for review in reviews %}
+            {% assign year = review.date | date: "%Y" %}
+            {% if year != previous_year %}{% assign entry_year = year %}{% else %}{% assign entry_year = "" %}{% endif %}
+            {% assign previous_year = year %}
+            {% assign href = review.url | prepend: site.baseurl %}
+            {% include entry.html entry=review href=href year=entry_year %}
         {% endfor %}
-    </ul>
-</div>
+    </ol>
+</section>

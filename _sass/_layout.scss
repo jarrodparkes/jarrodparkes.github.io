@@ -1,83 +1,424 @@
 @use "variables" as *;
 
+%mono-caps {
+  font-family: $mono-font-family;
+  font-size: $tiny-font-size;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+}
+
+.wrap {
+  max-width: $content-width;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+}
 main {
-    max-width: 48rem;
-    margin: 0 auto 3rem;
-    padding: 0 2rem;
+  display: block;
+  padding-bottom: 4rem;
 }
-.site-header {
-    .site-title {
-        font-weight: 300;
-        > a {
-            color: $text-color;
-            text-decoration: none;
-        }
-    }
-    .site-nav {
-        > a {
-            color: $text-color;
-            &:hover {
-                text-decoration: none;
-            }
-            &.active {
-                border-bottom: 2px solid #666;
-            }
-            + a {
-                margin-left: 1rem;
-            }
-        }
-    }
+
+// Dateline and masthead
+
+.dateline {
+  @extend %mono-caps;
+  color: $ink-soft-color;
+  border-bottom: 1px solid $ink-color;
+  .dateline-inner {
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+    padding-top: 0.6rem;
+    padding-bottom: 0.6rem;
+  }
 }
-.posts {
-    list-style: none;
-    padding: 0;
-    list-style-type: none;
-    > li {
-        line-height: 1.75;
-        padding-bottom: 1rem;
-        span {
-            color: $meta-color;
-            margin-right: 1.5rem;
-            font-size: $small-font-size;
-            display: block;
-        }
-        a {
-            color: $text-color;
-            text-decoration: none;
-        }
+.masthead {
+  border-bottom: 3px double $ink-color;
+  .masthead-inner {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 1rem 2rem;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+  }
+  .masthead-title {
+    font-family: $display-font-family;
+    font-size: 2.25rem;
+    font-weight: 600;
+    letter-spacing: -0.02em;
+    line-height: 1;
+    color: $ink-color;
+    text-decoration: none;
+  }
+  .masthead-nav {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem 1.5rem;
+    > a {
+      @extend %mono-caps;
+      color: $ink-color;
+      text-decoration: none;
+      padding-bottom: 0.2rem;
+      border-bottom: 2px solid transparent;
+      &:hover {
+        color: $red-color;
+      }
+      &.active {
+        border-bottom-color: $red-color;
+      }
     }
+  }
 }
+
+// Shared editorial elements
+
+.kicker {
+  @extend %mono-caps;
+  color: $red-color;
+  margin: 0 0 1rem;
+}
+.label {
+  @extend %mono-caps;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45em;
+  font-size: $micro-font-size;
+  line-height: 1;
+  padding: 0.35em 0.6em;
+  border: 1px solid currentColor;
+  white-space: nowrap;
+  &::before {
+    content: "";
+    width: 0.55em;
+    height: 0.55em;
+    background-color: currentColor;
+  }
+}
+.label-post {
+  color: $ink-color;
+}
+.label-review {
+  color: $blue-color;
+}
+.label-presentation {
+  color: $red-color;
+}
+
+// Home hero
+
+.hero {
+  padding: 4rem 0 0;
+  .hero-title {
+    font-size: clamp(2.75rem, 7vw, 5.5rem);
+    line-height: 1.02;
+    letter-spacing: -0.03em;
+    margin: 0;
+    em {
+      color: $red-color;
+    }
+  }
+  .hero-dek {
+    font-size: 1.2rem;
+    color: $ink-soft-color;
+    max-width: 36rem;
+    margin: 1.5rem 0 0;
+  }
+}
+.stats {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  margin: 3rem 0 0;
+  padding: 0;
+  list-style: none;
+  border-top: 1px solid $ink-color;
+  border-bottom: 1px solid $ink-color;
+  > li {
+    padding: 1rem 1.25rem;
+    border-left: 1px solid $border-color;
+    &:first-child {
+      padding-left: 0;
+      border-left: none;
+    }
+  }
+  .stat-label {
+    @extend %mono-caps;
+    display: block;
+    color: $meta-color;
+  }
+  .stat-value {
+    display: block;
+    font-family: $display-font-family;
+    font-size: 2.25rem;
+    line-height: 1.2;
+    font-variant-numeric: tabular-nums;
+  }
+}
+
+// Sections and entry lists
+
+.section {
+  padding-top: 3.5rem;
+}
+.section-header {
+  display: grid;
+  grid-template-columns: auto 1fr auto;
+  align-items: baseline;
+  gap: 1.5rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid $ink-color;
+  .section-number {
+    @extend %mono-caps;
+    color: $red-color;
+  }
+  .section-title {
+    font-size: 2.25rem;
+    margin: 0;
+  }
+  .section-aside {
+    @extend %mono-caps;
+    color: $meta-color;
+    text-align: right;
+  }
+}
+.entries {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.entry {
+  display: grid;
+  grid-template-columns: 5rem 7rem 1fr auto;
+  grid-template-areas: "year date title label";
+  align-items: center;
+  gap: 0 1.5rem;
+  padding: 0.9rem 0;
+  border-bottom: 1px solid $border-color;
+  &.entry-year-start:not(:first-child) {
+    border-top: 1px solid $ink-color;
+    margin-top: -1px;
+  }
+  .entry-year {
+    grid-area: year;
+    font-family: $display-font-family;
+    font-size: 1.75rem;
+    line-height: 1;
+  }
+  .entry-date {
+    grid-area: date;
+    font-family: $mono-font-family;
+    font-size: $tiny-font-size;
+    color: $meta-color;
+    font-variant-numeric: tabular-nums;
+  }
+  .entry-title {
+    grid-area: title;
+    > a {
+      font-family: $display-font-family;
+      font-size: 1.25rem;
+      line-height: 1.3;
+      color: $ink-color;
+      text-decoration: none;
+      &:hover {
+        color: $red-color;
+        text-decoration: underline;
+      }
+    }
+  }
+  .entry-where {
+    display: block;
+    margin-top: 0.25rem;
+    font-family: $mono-font-family;
+    font-size: $tiny-font-size;
+    color: $meta-color;
+  }
+  .label {
+    grid-area: label;
+    justify-self: end;
+  }
+}
+
+// Articles
+
 .post {
-    position: relative;
-    .post-header {
-        text-align: center;
-        margin-bottom: 0;
+  max-width: $reading-width;
+  margin: 0 auto;
+  padding-top: 3.5rem;
+  .post-header {
+    padding-bottom: 1.5rem;
+    margin-bottom: 2rem;
+    border-bottom: 1px solid $ink-color;
+  }
+  .post-kicker {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.75rem 1rem;
+    margin: 0;
+  }
+  .post-date {
+    font-family: $mono-font-family;
+    font-size: $tiny-font-size;
+    color: $meta-color;
+    font-variant-numeric: tabular-nums;
+  }
+  .post-title {
+    font-size: clamp(2.25rem, 5vw, 3.5rem);
+    line-height: 1.05;
+    letter-spacing: -0.02em;
+    margin: 1rem 0 0;
+  }
+  .post-meta {
+    @extend %mono-caps;
+    color: $meta-color;
+    margin: 1rem 0 0;
+  }
+  .post-body {
+    h1,
+    h2 {
+      font-size: 1.75rem;
+      margin: 2.75rem 0 1rem;
+      padding-top: 1rem;
+      border-top: 1px solid $border-color;
     }
-    .post-meta {
-        margin: 0;
-        text-align: center;
-        color: $meta-color;
-        font-size: $small-font-size;
+    h3 {
+      font-size: 1.35rem;
+      margin: 2rem 0 0.75rem;
     }
+    h4,
+    h5,
+    h6 {
+      @extend %mono-caps;
+      margin: 1.75rem 0 0.5rem;
+    }
+    iframe {
+      border: 1px solid $ink-color;
+    }
+  }
 }
 .video-wrapper {
-    position: relative;
-    padding-bottom: 56.25%; /* 16:9 */
-    padding-top: 25px;
-    height: 0;
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9 */
+  padding-top: 25px;
+  height: 0;
 }
 .video-wrapper iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
 }
-@media screen and (max-width: 48rem) {
-    .site-header {
-        .site-title,
-        .site-nav {
-            text-align: center;
-        }
+
+// Footer
+
+.site-footer {
+  margin-top: 2rem;
+  border-top: 3px double $ink-color;
+  .footer-grid {
+    display: grid;
+    grid-template-columns: 2fr 1fr 1fr;
+    gap: 2rem;
+    padding-top: 2.5rem;
+    padding-bottom: 2.5rem;
+  }
+  .footer-title {
+    font-family: $display-font-family;
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin: 0;
+  }
+  .footer-description {
+    color: $ink-soft-color;
+    margin: 0.5rem 0 0;
+    max-width: 24rem;
+  }
+  .footer-heading {
+    @extend %mono-caps;
+    font-family: $mono-font-family;
+    color: $meta-color;
+    margin: 0 0 0.75rem;
+  }
+  .footer-links {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    > li + li {
+      margin-top: 0.35rem;
     }
+    a {
+      color: $ink-color;
+      text-decoration: none;
+      &:hover {
+        color: $red-color;
+      }
+    }
+  }
+  .footer-colophon {
+    @extend %mono-caps;
+    color: $meta-color;
+    border-top: 1px solid $border-color;
+    .wrap {
+      display: flex;
+      justify-content: space-between;
+      gap: 1rem;
+      padding-top: 1rem;
+      padding-bottom: 1.5rem;
+    }
+  }
+}
+
+@media screen and (max-width: $mobile-width) {
+  .dateline .dateline-tagline {
+    display: none;
+  }
+  .masthead .masthead-title {
+    font-size: 1.85rem;
+  }
+  .hero {
+    padding-top: 2.5rem;
+  }
+  .stats {
+    grid-template-columns: repeat(2, 1fr);
+    > li:nth-child(odd) {
+      padding-left: 0;
+      border-left: none;
+    }
+    > li:nth-child(n + 3) {
+      border-top: 1px solid $border-color;
+    }
+  }
+  .section-header {
+    grid-template-columns: auto 1fr;
+    .section-aside {
+      display: none;
+    }
+  }
+  .entry {
+    grid-template-columns: 1fr auto;
+    grid-template-areas:
+      "year year"
+      "date label"
+      "title title";
+    gap: 0.4rem 1rem;
+    .entry-year {
+      margin: 0.5rem 0 0.25rem;
+    }
+    .entry-year:empty {
+      display: none;
+    }
+  }
+  .site-footer {
+    .footer-grid {
+      grid-template-columns: 1fr 1fr;
+    }
+    .footer-about {
+      grid-column: 1 / -1;
+    }
+    .footer-colophon .wrap {
+      flex-direction: column;
+      gap: 0.25rem;
+    }
+  }
 }

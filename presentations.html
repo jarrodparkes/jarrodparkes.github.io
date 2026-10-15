@@ -1,11 +1,21 @@
 ---
 layout: default
 ---
-<div class="home">
-    <ul class="posts">
-        {% assign presentations = site.posts | where: "layout" , "presentation" %}
+{% assign presentations = site.posts | where: "layout" , "presentation" %}
+<section class="section">
+    <header class="section-header">
+        <span class="section-number">&sect;</span>
+        <h1 class="section-title">Presentations</h1>
+        <span class="section-aside">{{ presentations.size }} entries</span>
+    </header>
+    <ol class="entries">
+        {% assign previous_year = "" %}
         {% for presentation in presentations %}
-        <li><span>{{ presentation.date | date: site.date_format }}</span><a href="https://s3.us-east-2.amazonaws.com/jarrodparkes.com/{{ presentation.pdf }}">{{ presentation.title }}</a></li>
+            {% assign year = presentation.date | date: "%Y" %}
+            {% if year != previous_year %}{% assign entry_year = year %}{% else %}{% assign entry_year = "" %}{% endif %}
+            {% assign previous_year = year %}
+            {% assign href = "https://s3.us-east-2.amazonaws.com/jarrodparkes.com/" | append: presentation.pdf %}
+            {% include entry.html entry=presentation href=href year=entry_year show_where=true %}
         {% endfor %}
-    </ul>
-</div>
+    </ol>
+</section>

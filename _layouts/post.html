@@ -2,7 +2,8 @@
 layout: default
 ---
 <article class="post">
-    <h2 class="post-header">{{ page.title }}</h2>
-    <p class="post-meta">{{ page.date | date: site.date_format }}</p>
-    {{ content }}          
+    {% include post-header.html %}
+    <div class="post-body">
+        {{ content }}
+    </div>
 </article>

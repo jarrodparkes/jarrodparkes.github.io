@@ -1,23 +1,41 @@
 ---
 layout: default
 ---
+{% assign post_count = site.posts | where: "layout", "post" | size %}
+{% assign review_count = site.posts | where: "layout", "review" | size %}
+{% assign presentation_count = site.posts | where: "layout", "presentation" | size %}
+{% assign entry_count = post_count | plus: review_count | plus: presentation_count %}
+{% assign description_words = site.description | split: " " %}
 
-<div class="home">
-    <ul class="posts">
+<section class="hero">
+    <p class="kicker">Posts &middot; Reviews &middot; Presentations</p>
+    <h1 class="hero-title">
+        {% for word in description_words %}{% if forloop.last %}<em>{{ word }}</em>{% else %}{{ word }} {% endif %}{% endfor %}
+    </h1>
+    <ul class="stats">
+        <li><span class="stat-label">Posts</span><span class="stat-value">{{ post_count }}</span></li>
+        <li><span class="stat-label">Reviews</span><span class="stat-value">{{ review_count }}</span></li>
+        <li><span class="stat-label">Presentations</span><span class="stat-value">{{ presentation_count }}</span></li>
+        <li><span class="stat-label">Since</span><span class="stat-value">{{ site.posts.last.date | date: "%Y" }}</span></li>
+    </ul>
+</section>
+
+<section class="section">
+    <header class="section-header">
+        <span class="section-number">&sect;</span>
+        <h2 class="section-title">Posts</h2>
+        <span class="section-aside">{{ entry_count }} entries</span>
+    </header>
+    <ol class="entries">
+        {% assign previous_year = "" %}
         {% for post in site.posts %}
             {% if post.layout == 'post' or post.layout == 'review' or post.layout == 'presentation' %}
-                <li>
-                    <span>{{ post.date | date: site.date_format }}</span>
-                    <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-                    {% if post.layout == 'post' %}
-                        <div class="label post-label">{{ post.layout }}</div>
-                    {% elsif post.layout == 'review' %}
-                        <div class="label review-label">{{ post.layout }}</div>
-                    {% else %}
-                        <div class="label presentation-label">{{ post.layout }}</div>
-                    {% endif %}
-                </li>
+                {% assign year = post.date | date: "%Y" %}
+                {% if year != previous_year %}{% assign entry_year = year %}{% else %}{% assign entry_year = "" %}{% endif %}
+                {% assign previous_year = year %}
+                {% assign href = post.url | prepend: site.baseurl %}
+                {% include entry.html entry=post href=href year=entry_year %}
             {% endif %}
         {% endfor %}
-    </ul>
-</div>
+    </ol>
+</section>

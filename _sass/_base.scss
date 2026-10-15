@@ -1,20 +1,33 @@
 @use "variables" as *;
 
+html {
+    background-color: $paper-color;
+}
 body {
     margin: 0;
     font-family: $base-font-family;
     font-size: $base-font-size;
     line-height: $base-line-height;
     color: $text-color;
+    background-color: $paper-color;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+}
+::selection {
+    color: $paper-color;
+    background-color: $ink-color;
 }
 p {
     text-align: left;
 }
 a {
-    color: $link-color;
-    text-decoration: none;
+    color: $text-color;
+    text-decoration: underline;
+    text-decoration-color: $link-color;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 0.2em;
     &:hover {
-        text-decoration: underline;
+        color: $link-color;
     }
 }
 h1,
@@ -23,12 +36,22 @@ h3,
 h4,
 h5,
 h6 {
-    font-weight: 300;
+    font-family: $display-font-family;
+    font-weight: 400;
+    line-height: 1.15;
+    letter-spacing: -0.01em;
+    em {
+        font-style: italic;
+    }
 }
 blockquote {
+    margin: 2rem 0;
+    padding-left: 1.25rem;
+    border-left: 3px solid $red-color;
+    font-family: $display-font-family;
     font-style: italic;
-    padding-left: 1rem;
-    border-left: 3px solid $border-color;
+    font-size: 1.15em;
+    color: $ink-soft-color;
 }
 img {
     max-width: 100%;
@@ -40,6 +63,7 @@ table {
     border-spacing: 0;
     max-width: 100%;
     width: 100%;
+    font-variant-numeric: tabular-nums;
 }
 th,
 td {
@@ -49,7 +73,12 @@ td {
 th {
     text-align: left;
     vertical-align: bottom;
-    border-bottom: 2px solid $border-color;
+    font-family: $mono-font-family;
+    font-size: $tiny-font-size;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    border-bottom: 1px solid $ink-color;
 }
 td {
     vertical-align: top;
@@ -58,11 +87,20 @@ td {
 pre {
     padding: 1.25rem;
     overflow-x: auto;
+    border: 1px solid $border-color;
+    background-color: $paper-raised-color;
 }
 code {
-    font-family: 'Courier New',Consolas,monopace;
+    font-family: $mono-font-family;
+    font-size: 0.85em;
+}
+:not(pre) > code {
+    padding: 0.1em 0.3em;
+    background-color: $paper-raised-color;
+    border: 1px solid $border-color;
 }
 hr {
     border: none;
-    border-top: 2px solid $border-color;
+    border-top: 1px solid $ink-color;
+    margin: 2.5rem 0;
 }

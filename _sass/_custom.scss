@@ -1,17 +1,5 @@
 @use "variables" as *;
-@use "color" as *;
 
-.label {
-    display: inline;
-    color: $color-white;
-    font-size: $small-font-size;
-    padding: 0.25em 0.75em 0.25em 0.75em;
-    margin-left: 0.5em;
-    border-radius: 1em;
-    line-height: 5px;
-    text-align: center;
+.highlight {
+    background-color: $paper-raised-color;
 }
-
-.post-label           { background-color: $color-navy; }
-.review-label         { background-color: $color-blue; }
-.presentation-label   { background-color: $color-purple; }
