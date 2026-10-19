@@ -5,6 +5,7 @@ layout: default
 <article class="post" lang="{{ post_language }}">
     {% include post-header.html %}
     <div class="post-body">
-        <iframe src="{{ page.pdf }}" width="100%" height="700"></iframe>
+        {% assign pdf_url = "https://s3.us-east-2.amazonaws.com/jarrodparkes.com/" | append: page.pdf %}
+        <iframe src="{{ pdf_url }}" width="100%" height="700"></iframe>
     </div>
 </article>
